@@ -1,0 +1,19 @@
+[
+  {
+    "name":"Chair",
+    "url":"https://raw.githubusercontent.com/srinivas-bekkam/3d-models/master/OldChair.gltf"
+  },
+  {
+    "name":"Sofa",
+    "url":"https://raw.githubusercontent.com/srinivas-bekkam/3d-models/master/model.gltf"
+  },
+  {
+    "name":"Lamp",
+    "url":"https://raw.githubusercontent.com/srinivas-bekkam/3d-models/master/Lamp.gltf"
+  },
+ 
+  {
+    "name":"Book Shelf",
+    "url":"https://raw.githubusercontent.com/srinivas-bekkam/3d-models/master/ShoeCase.gltf"
+  }
+]
