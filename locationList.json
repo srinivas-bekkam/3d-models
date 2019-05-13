@@ -8,5 +8,10 @@
     "name": "Location two",
     "latitude": "37.784179",
     "longitude": "-121.401583"
+  },
+  {
+    "name": "Location three",
+    "latitude": "38.784179",
+    "longitude": "-121.401583"
   }
 ]
