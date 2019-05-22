@@ -1,7 +1,7 @@
 [
   {
     "name": "Cactus",
-    "gltf_url": "https://raw.githubusercontent.com/srinivas-bekkam/3d-models/master/cactus/cactus.gltf",
+    "gltf_url": "https://raw.githubusercontent.com/srinivas-bekkam/3d-models/master/OldChair.gltf",
     "model_url": "https://raw.githubusercontent.com/srinivas-bekkam/3d-models/master/cactus/cactus.obj",
     "material_url": "https://raw.githubusercontent.com/srinivas-bekkam/3d-models/master/cactus/cactus.mtl",
     "texture_url": null,
