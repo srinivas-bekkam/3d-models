@@ -68,5 +68,15 @@
     "bin_url": "https://raw.githubusercontent.com/srinivas-bekkam/3d-models/master/Microwave/Microwave.bin",
     "scale": 0.3,
     "ar_scale": 0.01
+  },
+  {
+    "name": "BoomBox",
+    "gltf_url": "https://github.com/srinivas-bekkam/3d-models/blob/master/boombox/Boombox.gltf",
+    "model_url": "",
+    "material_url": "",
+    "texture_url": "",
+    "bin_url": "https://github.com/srinivas-bekkam/3d-models/blob/master/boombox/Boombox.bin",
+    "scale": 0.3,
+    "ar_scale": 0.01
   }
 ]
