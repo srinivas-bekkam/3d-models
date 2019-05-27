@@ -6,7 +6,7 @@
     "material_url": "https://raw.githubusercontent.com/srinivas-bekkam/3d-models/master/cactus/cactus.mtl",
     "texture_url": null,
     "bin_url": "https://raw.githubusercontent.com/srinivas-bekkam/3d-models/master/cactus/cactus.bin",
-    "scale": 1
+    "scale": 0.1
   },
   {
     "name": "Chair",
