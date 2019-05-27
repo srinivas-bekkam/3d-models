@@ -15,6 +15,6 @@
     "material_url": "https://raw.githubusercontent.com/srinivas-bekkam/3d-models/master/chair/Chair.mtl",
     "texture_url": "https://raw.githubusercontent.com/srinivas-bekkam/3d-models/master/chair/Chair_BaseColor.png",
     "bin_url": "https://raw.githubusercontent.com/srinivas-bekkam/3d-models/master/chair/Chair.bin",
-    "scale": 1
+    "scale": 0.25
   }
 ]
