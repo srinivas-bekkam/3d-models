@@ -17,7 +17,7 @@
     "texture_url": "https://raw.githubusercontent.com/srinivas-bekkam/3d-models/master/chair/Chair_BaseColor.png",
     "bin_url": "https://raw.githubusercontent.com/srinivas-bekkam/3d-models/master/chair/Chair.bin",
     "scale": 0.2,
-    "ar_scale": 0.08
+    "ar_scale": 0.06
   },
   {
     "name": "Television",
@@ -37,7 +37,7 @@
     "texture_url": "",
     "bin_url": "https://raw.githubusercontent.com/srinivas-bekkam/3d-models/master/ShoeCase/ShoeCase.bin",
     "scale": 0.3,
-    "ar_scale": 0.01
+    "ar_scale": 0.2
   },
   {
     "name": "Laptop",
@@ -57,7 +57,7 @@
     "texture_url": "",
     "bin_url": "https://raw.githubusercontent.com/srinivas-bekkam/3d-models/master/stereo/stereo.bin",
     "scale": 0.3,
-    "ar_scale": 0.01
+    "ar_scale": 0.001
   },
   {
     "name": "Microwave",
