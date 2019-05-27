@@ -34,5 +34,23 @@
     "texture_url": "",
     "bin_url": "https://raw.githubusercontent.com/srinivas-bekkam/3d-models/master/ShoeCase/ShoeCase.bin",
     "scale": 0.3
+  },
+  {
+    "name": "Laptop",
+    "gltf_url": "https://raw.githubusercontent.com/srinivas-bekkam/3d-models/master/Laptop/Laptop.gltf",
+    "model_url": "",
+    "material_url": "",
+    "texture_url": "",
+    "bin_url": "https://raw.githubusercontent.com/srinivas-bekkam/3d-models/master/Laptop/Laptop.bin",
+    "scale": 0.5
+  },
+  {
+    "name": "Stereo",
+    "gltf_url": "https://raw.githubusercontent.com/srinivas-bekkam/3d-models/master/stereo/stereo.gltf",
+    "model_url": "",
+    "material_url": "",
+    "texture_url": "",
+    "bin_url": "https://raw.githubusercontent.com/srinivas-bekkam/3d-models/master/stereo/stereo.bin",
+    "scale": 0.5
   }
 ]
