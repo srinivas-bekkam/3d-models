@@ -16,5 +16,14 @@
     "texture_url": "https://raw.githubusercontent.com/srinivas-bekkam/3d-models/master/chair/Chair_BaseColor.png",
     "bin_url": "https://raw.githubusercontent.com/srinivas-bekkam/3d-models/master/chair/Chair.bin",
     "scale": 0.2
+  },
+  {
+    "name": "Television",
+    "gltf_url": "https://raw.githubusercontent.com/srinivas-bekkam/3d-models/master/Television/TV.gltf",
+    "model_url": "",
+    "material_url": "",
+    "texture_url": "",
+    "bin_url": "https://raw.githubusercontent.com/srinivas-bekkam/3d-models/master/Television/TV.bin",
+    "scale": 0.2
   }
 ]
