@@ -17,7 +17,7 @@
     "texture_url": "https://raw.githubusercontent.com/srinivas-bekkam/3d-models/master/chair/Chair_BaseColor.png",
     "bin_url": "https://raw.githubusercontent.com/srinivas-bekkam/3d-models/master/chair/Chair.bin",
     "scale": 0.2,
-    "ar_scale": 0.01
+    "ar_scale": 0.08
   },
   {
     "name": "Television",
@@ -27,7 +27,7 @@
     "texture_url": "",
     "bin_url": "https://raw.githubusercontent.com/srinivas-bekkam/3d-models/master/Television/TV.bin",
     "scale": 0.05,
-    "ar_scale": 0.1
+    "ar_scale": 0.06
   },
   {
     "name": "Shoe Case",
