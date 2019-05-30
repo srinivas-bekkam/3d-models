@@ -7,7 +7,8 @@
     "texture_url": null,
     "bin_url": "https://raw.githubusercontent.com/srinivas-bekkam/3d-models/master/cactus/cactus.bin",
     "scale": 0.25,
-    "ar_scale": 0.2
+    "ar_scale": 0.2,
+    "category": 3
   },
   {
     "name": "Chair",
@@ -17,7 +18,8 @@
     "texture_url": "https://raw.githubusercontent.com/srinivas-bekkam/3d-models/master/chair/Chair_BaseColor.png",
     "bin_url": "https://raw.githubusercontent.com/srinivas-bekkam/3d-models/master/chair/Chair.bin",
     "scale": 0.2,
-    "ar_scale": 0.06
+    "ar_scale": 0.06,
+    "category": 2
   },
   {
     "name": "Television",
@@ -27,7 +29,8 @@
     "texture_url": "",
     "bin_url": "https://raw.githubusercontent.com/srinivas-bekkam/3d-models/master/Television/TV.bin",
     "scale": 0.05,
-    "ar_scale": 0.06
+    "ar_scale": 0.06,
+    "category": 1
   },
   {
     "name": "Shoe Case",
@@ -37,7 +40,8 @@
     "texture_url": "",
     "bin_url": "https://raw.githubusercontent.com/srinivas-bekkam/3d-models/master/ShoeCase/ShoeCase.bin",
     "scale": 0.3,
-    "ar_scale": 0.8
+    "ar_scale": 0.8,
+    "category": 2
   },
   {
     "name": "Laptop",
@@ -47,7 +51,8 @@
     "texture_url": "",
     "bin_url": "https://raw.githubusercontent.com/srinivas-bekkam/3d-models/master/Laptop/Laptop.bin",
     "scale": 0.3,
-    "ar_scale": 0.001
+    "ar_scale": 0.001,
+    "category": 5
   },
   {
     "name": "Stereo",
@@ -57,7 +62,8 @@
     "texture_url": "",
     "bin_url": "https://raw.githubusercontent.com/srinivas-bekkam/3d-models/master/stereo/stereo.bin",
     "scale": 0.3,
-    "ar_scale": 0.001
+    "ar_scale": 0.001,
+    "category": 6
   },
   {
     "name": "Microwave",
@@ -67,7 +73,8 @@
     "texture_url": "",
     "bin_url": "https://raw.githubusercontent.com/srinivas-bekkam/3d-models/master/Microwave/Microwave.bin",
     "scale": 0.3,
-    "ar_scale": 0.01
+    "ar_scale": 0.01,
+    "category": 1
   },
   {
     "name": "BoomBox",
@@ -77,6 +84,7 @@
     "texture_url": "",
     "bin_url": "https://github.com/srinivas-bekkam/3d-models/blob/master/boombox/Boombox.bin",
     "scale": 0.3,
-    "ar_scale": 0.01
+    "ar_scale": 0.01,
+    "category": 6
   }
 ]
