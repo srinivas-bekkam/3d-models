@@ -171,8 +171,8 @@
     "buffers": [
         {
             "byteLength": 5598000,
-            "name": "cactus",
-            "uri": "cactus.bin"
+            "name": "buffer_cactus",
+            "uri": "buffer_cactus.bin"
         }
     ],
     "materials": [
@@ -306,28 +306,6 @@
     ],
     "nodes": [
         {
-            "children": [
-                1
-            ],
-            "name": "cactus.gltf",
-            "rotation": [
-                0.0,
-                0.7071068286895752,
-                0.7071068286895752,
-                0.0
-            ],
-            "scale": [
-                0.20000000298023224,
-                0.20000000298023224,
-                0.20000000298023224
-            ],
-            "translation": [
-                0.0,
-                0.0,
-                0.0
-            ]
-        },
-        {
             "mesh": 0,
             "name": "node-0",
             "rotation": [
@@ -337,9 +315,9 @@
                 1.0
             ],
             "scale": [
-                1.0,
-                1.0,
-                1.0
+                0.20000000298023224,
+                0.20000000298023224,
+                0.20000000298023224
             ],
             "translation": [
                 0.0,
