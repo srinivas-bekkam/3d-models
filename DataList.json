@@ -12,7 +12,7 @@
     "description": "Wall Clock",
     "price": 499,
     "discount": 10,
-    "allowedPlanes": 1
+    "allowedPlains": 1
   },
   {
     "name": "Cactus",
@@ -27,7 +27,7 @@
     "description": "Cactus Plant",
     "price": 499,
     "discount": 10,
-    "allowedPlanes": 2
+    "allowedPlains": 2
   },
   {
     "name": "Chair",
@@ -42,7 +42,7 @@
     "description": "Wooden brown chair",
     "price": 4999,
     "discount": 10,
-    "allowedPlanes": 2
+    "allowedPlains": 2
   },
   {
     "name": "Television",
@@ -57,7 +57,7 @@
     "description": "43 inch LED Television",
     "price": 44999,
     "discount": 10,
-    "allowedPlanes": 2
+    "allowedPlains": 2
   },
   {
     "name": "Shoe Case",
@@ -72,7 +72,7 @@
     "description": "Large sized shoe case",
     "price": 4599,
     "discount": 10,
-    "allowedPlanes": 2
+    "allowedPlains": 2
   },
   {
     "name": "Laptop",
@@ -87,7 +87,7 @@
     "description": "15.6 inch Laptop",
     "price": 56200,
     "discount": 10,
-    "allowedPlanes": 2
+    "allowedPlains": 2
   },
   {
     "name": "Stereo",
@@ -102,7 +102,7 @@
     "description": "Music system",
     "price": 5699,
     "discount": 10,
-    "allowedPlanes": 2
+    "allowedPlains": 2
   },
   {
     "name": "Microwave",
@@ -117,7 +117,7 @@
     "description": "Micro wave oven",
     "price": 11528,
     "discount": 10,
-    "allowedPlanes": 2
+    "allowedPlains": 2
   },
   {
     "name": "BoomBox",
@@ -132,6 +132,6 @@
     "description": "Portable Boom Box",
     "price": 3566,
     "discount": 10,
-    "allowedPlanes": 2
+    "allowedPlains": 2
   }
 ]
