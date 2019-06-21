@@ -4,16 +4,16 @@
             "bufferView": 1,
             "byteOffset": 0,
             "componentType": 5126,
-            "count": 429,
+            "count": 444,
             "max": [
-                0.9991455078125,
-                0.999237060546875,
-                0.999725341796875
+                0.999969482421875,
+                0.999969482421875,
+                0.999847412109375
             ],
             "min": [
-                -0.9991455078125,
-                -0.999237060546875,
-                -0.999725341796875
+                -0.999969482421875,
+                -0.999969482421875,
+                -0.999847412109375
             ],
             "name": "accessor_buffer_mesh_m0-PolyPaper20_-353594_NORMAL_0",
             "type": "VEC3"
@@ -22,7 +22,7 @@
             "bufferView": 2,
             "byteOffset": 0,
             "componentType": 5126,
-            "count": 429,
+            "count": 444,
             "max": [
                 1.0,
                 0.6117647290229797,
@@ -42,7 +42,7 @@
             "componentType": 5123,
             "count": 612,
             "max": [
-                428
+                443
             ],
             "min": [
                 0
@@ -54,16 +54,16 @@
             "bufferView": 0,
             "byteOffset": 0,
             "componentType": 5126,
-            "count": 429,
+            "count": 444,
             "max": [
-                0.11389528959989548,
-                0.01155311893671751,
-                0.11884084343910217
+                0.11411711573600769,
+                0.01189442165195942,
+                0.11877275258302689
             ],
             "min": [
-                -0.11356902867555618,
-                -0.016097839921712875,
-                -0.11875952780246735
+                -0.11410596966743469,
+                -0.007768296170979738,
+                -0.11862955242395401
             ],
             "name": "accessor_buffer_mesh_m0-PolyPaper20_-353594_POSITION_0",
             "type": "VEC3"
@@ -77,7 +77,7 @@
     "bufferViews": [
         {
             "buffer": 0,
-            "byteLength": 5148,
+            "byteLength": 5328,
             "byteOffset": 0,
             "byteStride": 12,
             "name": "bufferView_buffer_mesh_m0-PolyPaper20_-353594_POSITION_0",
@@ -85,16 +85,16 @@
         },
         {
             "buffer": 0,
-            "byteLength": 5148,
-            "byteOffset": 5148,
+            "byteLength": 5328,
+            "byteOffset": 5328,
             "byteStride": 12,
             "name": "bufferView_buffer_mesh_m0-PolyPaper20_-353594_NORMAL_0",
             "target": 34962
         },
         {
             "buffer": 0,
-            "byteLength": 5148,
-            "byteOffset": 10296,
+            "byteLength": 5328,
+            "byteOffset": 10656,
             "byteStride": 12,
             "name": "bufferView_buffer_mesh_m0-PolyPaper20_-353594_COLOR_0_0",
             "target": 34962
@@ -102,14 +102,14 @@
         {
             "buffer": 0,
             "byteLength": 1228,
-            "byteOffset": 15444,
+            "byteOffset": 15984,
             "name": "bufferView_buffer_mesh_m0-PolyPaper20_-353594_0",
             "target": 34963
         }
     ],
     "buffers": [
         {
-            "byteLength": 16672,
+            "byteLength": 17212,
             "name": "buffer_clock",
             "uri": "buffer_clock.bin"
         }
