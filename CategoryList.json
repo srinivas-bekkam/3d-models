@@ -28,5 +28,10 @@
     "name": "Music Systems",
     "id": 6,
     "parentId": 1
+  },
+  {
+    "name": "Home and Decor",
+    "id": 7,
+    "parentId": -1
   }
 ]
