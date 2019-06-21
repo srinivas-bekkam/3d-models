@@ -12,7 +12,7 @@
     "description": "Wall Clock",
     "price": 499,
     "discount": 10,
-    "allowedPlanes": 2
+    "allowedPlanes": 1
   },
   {
     "name": "Cactus",
@@ -27,7 +27,7 @@
     "description": "Cactus Plant",
     "price": 499,
     "discount": 10,
-    "allowedPlanes": 1
+    "allowedPlanes": 2
   },
   {
     "name": "Chair",
