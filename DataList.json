@@ -15,6 +15,21 @@
     "allowedPlanes": 1
   },
   {
+    "name": "Cactus",
+    "gltf_url": "https://raw.githubusercontent.com/srinivas-bekkam/3d-models/master/cactus/cactus.gltf",
+    "model_url": "",
+    "material_url": "",
+    "texture_url": null,
+    "bin_url": "https://raw.githubusercontent.com/srinivas-bekkam/3d-models/master/cactus/buffer_cactus.bin",
+    "scale": 1,
+    "ar_scale": 1,
+    "category": 3,
+    "description": "Cactus Plant",
+    "price": 499,
+    "discount": 10,
+    "allowedPlanes": 1
+  },
+  {
     "name": "Chair",
     "gltf_url": "https://raw.githubusercontent.com/srinivas-bekkam/3d-models/master/chair/Chair.gltf",
     "model_url": "https://raw.githubusercontent.com/srinivas-bekkam/3d-models/master/chair/Chair.obj",
