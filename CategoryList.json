@@ -33,5 +33,10 @@
     "name": "Home and Decor",
     "id": 7,
     "parentId": -1
+  },
+  {
+    "name": "Kitchen",
+    "id": 8,
+    "parentId": -1
   }
 ]
