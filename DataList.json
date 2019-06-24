@@ -1,5 +1,20 @@
 [
   {
+    "name": "Orchid",
+    "gltf_url": "https://raw.githubusercontent.com/srinivas-bekkam/3d-models/master/orchid/orchid.gltf",
+    "model_url": "",
+    "material_url": "",
+    "texture_url": null,
+    "bin_url": "https://raw.githubusercontent.com/srinivas-bekkam/3d-models/master/orchid/orchid.gltf",
+    "scale": 1,
+    "ar_scale": 1,
+    "category": 7,
+    "description": "Orchid",
+    "price": 999,
+    "discount": 10,
+    "allowedPlains": 2
+  },
+  {
     "name": "Clock",
     "gltf_url": "https://raw.githubusercontent.com/srinivas-bekkam/3d-models/master/clock/clock.gltf",
     "model_url": "",
