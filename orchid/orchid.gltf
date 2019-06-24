@@ -4,7 +4,7 @@
             "bufferView": 1,
             "byteOffset": 0,
             "componentType": 5126,
-            "count": 14391,
+            "count": 14291,
             "max": [
                 0.9967955350875854,
                 0.99969482421875,
@@ -22,7 +22,7 @@
             "bufferView": 2,
             "byteOffset": 0,
             "componentType": 5126,
-            "count": 14391,
+            "count": 14291,
             "max": [
                 13.706600189208984,
                 22.663400650024414
@@ -40,10 +40,10 @@
             "componentType": 5123,
             "count": 366,
             "max": [
-                14378
+                14277
             ],
             "min": [
-                24
+                50
             ],
             "name": "accessor_buffer_buffer-0-mesh-0_0",
             "type": "SCALAR"
@@ -54,10 +54,10 @@
             "componentType": 5123,
             "count": 5088,
             "max": [
-                14385
+                14290
             ],
             "min": [
-                0
+                3
             ],
             "name": "accessor_buffer_buffer-0-mesh-0_2",
             "type": "SCALAR"
@@ -68,10 +68,10 @@
             "componentType": 5123,
             "count": 12,
             "max": [
-                12455
+                14138
             ],
             "min": [
-                1228
+                98
             ],
             "name": "accessor_buffer_buffer-0-mesh-0_4",
             "type": "SCALAR"
@@ -82,10 +82,10 @@
             "componentType": 5123,
             "count": 4992,
             "max": [
-                14373
+                14288
             ],
             "min": [
-                4
+                0
             ],
             "name": "accessor_buffer_buffer-0-mesh-0_1",
             "type": "SCALAR"
@@ -94,16 +94,16 @@
             "bufferView": 0,
             "byteOffset": 0,
             "componentType": 5126,
-            "count": 14391,
+            "count": 14291,
             "max": [
-                26.749000549316406,
-                115.98699951171875,
-                21.601600646972656
+                0.08024699985980988,
+                0.3479610085487366,
+                0.0648047998547554
             ],
             "min": [
-                -26.907100677490234,
-                -2.526099920272827,
-                -19.962799072265625
+                -0.08072130382061005,
+                -0.007578299846500158,
+                -0.05988839641213417
             ],
             "name": "accessor_buffer_buffer-0-mesh-0_POSITION_0",
             "type": "VEC3"
@@ -114,10 +114,10 @@
             "componentType": 5123,
             "count": 156,
             "max": [
-                14351
+                14181
             ],
             "min": [
-                36
+                67
             ],
             "name": "accessor_buffer_buffer-0-mesh-0_5",
             "type": "SCALAR"
@@ -128,7 +128,7 @@
             "componentType": 5123,
             "count": 4164,
             "max": [
-                14390
+                14289
             ],
             "min": [
                 2
@@ -145,7 +145,7 @@
     "bufferViews": [
         {
             "buffer": 0,
-            "byteLength": 172692,
+            "byteLength": 171492,
             "byteOffset": 0,
             "byteStride": 12,
             "name": "bufferView_buffer_buffer-0-mesh-0_POSITION_0",
@@ -153,16 +153,16 @@
         },
         {
             "buffer": 0,
-            "byteLength": 172692,
-            "byteOffset": 172692,
+            "byteLength": 171492,
+            "byteOffset": 171492,
             "byteStride": 12,
             "name": "bufferView_buffer_buffer-0-mesh-0_NORMAL_0",
             "target": 34962
         },
         {
             "buffer": 0,
-            "byteLength": 115128,
-            "byteOffset": 345384,
+            "byteLength": 114328,
+            "byteOffset": 342984,
             "byteStride": 8,
             "name": "bufferView_buffer_buffer-0-mesh-0_TEXCOORD_0_0",
             "target": 34962
@@ -170,49 +170,49 @@
         {
             "buffer": 0,
             "byteLength": 736,
-            "byteOffset": 460512,
+            "byteOffset": 457312,
             "name": "bufferView_buffer_buffer-0-mesh-0_0",
             "target": 34963
         },
         {
             "buffer": 0,
             "byteLength": 9988,
-            "byteOffset": 461248,
+            "byteOffset": 458048,
             "name": "bufferView_buffer_buffer-0-mesh-0_1",
             "target": 34963
         },
         {
             "buffer": 0,
             "byteLength": 10180,
-            "byteOffset": 471236,
+            "byteOffset": 468036,
             "name": "bufferView_buffer_buffer-0-mesh-0_2",
             "target": 34963
         },
         {
             "buffer": 0,
             "byteLength": 8332,
-            "byteOffset": 481416,
+            "byteOffset": 478216,
             "name": "bufferView_buffer_buffer-0-mesh-0_3",
             "target": 34963
         },
         {
             "buffer": 0,
             "byteLength": 28,
-            "byteOffset": 489748,
+            "byteOffset": 486548,
             "name": "bufferView_buffer_buffer-0-mesh-0_4",
             "target": 34963
         },
         {
             "buffer": 0,
             "byteLength": 316,
-            "byteOffset": 489776,
+            "byteOffset": 486576,
             "name": "bufferView_buffer_buffer-0-mesh-0_5",
             "target": 34963
         }
     ],
     "buffers": [
         {
-            "byteLength": 490092,
+            "byteLength": 486892,
             "name": "buffer_orchid",
             "uri": "buffer_orchid.bin"
         }
@@ -417,9 +417,9 @@
                 1.0
             ],
             "scale": [
-                0.004999999888241291,
-                0.004999999888241291,
-                0.004999999888241291
+                1.0,
+                1.0,
+                1.0
             ],
             "translation": [
                 0.0,
