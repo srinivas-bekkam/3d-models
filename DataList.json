@@ -27,7 +27,7 @@
     "description": "Wall Painting",
     "price": 9999,
     "discount": 10,
-    "allowedPlains": 1
+    "allowedPlains": 2
   },
   {
     "name": "Terranium",
