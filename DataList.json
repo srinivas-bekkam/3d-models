@@ -16,7 +16,7 @@
   },
   {
     "name": "Painting",
-    "gltf_url": "https://github.com/srinivas-bekkam/3d-models/blob/master/Blender.glb?raw=true",
+    "gltf_url": "https://raw.githubusercontent.com/srinivas-bekkam/3d-models/master/Blender.glb",
     "model_url": "",
     "material_url": "",
     "texture_url": null,
