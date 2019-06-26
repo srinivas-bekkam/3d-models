@@ -150,6 +150,21 @@
     "allowedPlains": 2
   },
    {
+    "name": "Single Bed",
+    "gltf_url": "https://raw.githubusercontent.com/srinivas-bekkam/3d-models/master/furniture/single_bed/single_bed.gltf",
+    "model_url": "",
+    "material_url": "",
+    "texture_url": "",
+    "bin_url": "",
+    "scale": 1,
+    "ar_scale": 1,
+    "category": 2,
+    "description": "Small sized Bed",
+    "price": 14999,
+    "discount": 10,
+    "allowedPlains": 2
+  },
+   {
     "name": "Lounge Chair",
     "gltf_url": "https://raw.githubusercontent.com/srinivas-bekkam/3d-models/master/furniture/lounge_chair/lounge_chair.gltf",
     "model_url": "",
