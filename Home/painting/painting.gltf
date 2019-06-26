@@ -4,16 +4,16 @@
             "bufferView": 0,
             "byteOffset": 0,
             "componentType": 5126,
-            "count": 460,
+            "count": 465,
             "max": [
-                0.09989430755376816,
-                0.2725020945072174,
-                0.004634551238268614
+                0.14112989604473114,
+                0.006127858068794012,
+                0.15794584155082703
             ],
             "min": [
-                -0.09989430755376816,
-                0.00011036499927286059,
-                -0.012468824163079262
+                -0.13601021468639374,
+                -0.01133448164910078,
+                -0.16442322731018066
             ],
             "name": "accessor_buffer_Wall_Art_Classical_Plane-Mesh_POSITION_0",
             "type": "VEC3"
@@ -24,10 +24,10 @@
             "componentType": 5123,
             "count": 213,
             "max": [
-                457
+                464
             ],
             "min": [
-                2
+                1
             ],
             "name": "accessor_buffer_Wall_Art_Classical_Plane-Mesh_3",
             "type": "SCALAR"
@@ -38,10 +38,10 @@
             "componentType": 5123,
             "count": 66,
             "max": [
-                448
+                452
             ],
             "min": [
-                40
+                2
             ],
             "name": "accessor_buffer_Wall_Art_Classical_Plane-Mesh_2",
             "type": "SCALAR"
@@ -55,7 +55,7 @@
                 459
             ],
             "min": [
-                0
+                3
             ],
             "name": "accessor_buffer_Wall_Art_Classical_Plane-Mesh_0",
             "type": "SCALAR"
@@ -64,16 +64,16 @@
             "bufferView": 1,
             "byteOffset": 0,
             "componentType": 5126,
-            "count": 460,
+            "count": 465,
             "max": [
-                1.0,
-                1.0,
-                1.0
+                0.9462724924087524,
+                0.9999992847442627,
+                0.9462716579437256
             ],
             "min": [
                 -1.0,
                 -1.0,
-                -1.0
+                -0.9462716579437256
             ],
             "name": "accessor_buffer_Wall_Art_Classical_Plane-Mesh_NORMAL_0",
             "type": "VEC3"
@@ -84,10 +84,10 @@
             "componentType": 5123,
             "count": 153,
             "max": [
-                456
+                463
             ],
             "min": [
-                1
+                0
             ],
             "name": "accessor_buffer_Wall_Art_Classical_Plane-Mesh_1",
             "type": "SCALAR"
@@ -101,7 +101,7 @@
     "bufferViews": [
         {
             "buffer": 0,
-            "byteLength": 5520,
+            "byteLength": 5580,
             "byteOffset": 0,
             "byteStride": 12,
             "name": "bufferView_buffer_Wall_Art_Classical_Plane-Mesh_POSITION_0",
@@ -109,8 +109,8 @@
         },
         {
             "buffer": 0,
-            "byteLength": 5520,
-            "byteOffset": 5520,
+            "byteLength": 5580,
+            "byteOffset": 5580,
             "byteStride": 12,
             "name": "bufferView_buffer_Wall_Art_Classical_Plane-Mesh_NORMAL_0",
             "target": 34962
@@ -118,35 +118,35 @@
         {
             "buffer": 0,
             "byteLength": 128,
-            "byteOffset": 11040,
+            "byteOffset": 11160,
             "name": "bufferView_buffer_Wall_Art_Classical_Plane-Mesh_0",
             "target": 34963
         },
         {
             "buffer": 0,
             "byteLength": 308,
-            "byteOffset": 11168,
+            "byteOffset": 11288,
             "name": "bufferView_buffer_Wall_Art_Classical_Plane-Mesh_1",
             "target": 34963
         },
         {
             "buffer": 0,
             "byteLength": 136,
-            "byteOffset": 11476,
+            "byteOffset": 11596,
             "name": "bufferView_buffer_Wall_Art_Classical_Plane-Mesh_2",
             "target": 34963
         },
         {
             "buffer": 0,
             "byteLength": 428,
-            "byteOffset": 11612,
+            "byteOffset": 11732,
             "name": "bufferView_buffer_Wall_Art_Classical_Plane-Mesh_3",
             "target": 34963
         }
     ],
     "buffers": [
         {
-            "byteLength": 12040,
+            "byteLength": 12160,
             "name": "buffer_painting",
             "uri": "buffer_painting.bin"
         }
@@ -282,9 +282,9 @@
             "name": "Wall_Art_Classical_Plane",
             "rotation": [
                 0.0,
+                0.214223712682724,
                 0.0,
-                0.0,
-                1.0
+                0.9767846465110779
             ],
             "scale": [
                 1.0,
