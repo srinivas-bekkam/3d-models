@@ -134,6 +134,21 @@
     "discount": 10,
     "allowedPlains": 2
   },
+  {
+    "name": "Bed set",
+    "gltf_url": "https://raw.githubusercontent.com/srinivas-bekkam/3d-models/master/furniture/bed_with_accessories/bed_with_accessories.gltf",
+    "model_url": "",
+    "material_url": "",
+    "texture_url": "",
+    "bin_url": "",
+    "scale": 1,
+    "ar_scale": 1,
+    "category": 2,
+    "description": "Bed with Accessories",
+    "price": 24999,
+    "discount": 10,
+    "allowedPlains": 2
+  },
    {
     "name": "Lounge Chair",
     "gltf_url": "https://raw.githubusercontent.com/srinivas-bekkam/3d-models/master/furniture/lounge_chair/lounge_chair.gltf",
