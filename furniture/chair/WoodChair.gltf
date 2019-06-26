@@ -4,16 +4,16 @@
             "bufferView": 0,
             "byteOffset": 0,
             "componentType": 5126,
-            "count": 909,
+            "count": 880,
             "max": [
-                0.3762093484401703,
-                1.2613370418548584,
-                0.3229212462902069
+                0.2795807421207428,
+                1.0944477319717407,
+                0.32689398527145386
             ],
             "min": [
-                -0.3762093484401703,
-                -0.0003366128366906196,
-                -0.3242722451686859
+                -0.28196996450424194,
+                -0.0002920750994235277,
+                -0.32641780376434326
             ],
             "name": "accessor_buffer_buffer-0-mesh-0_POSITION_0",
             "type": "VEC3"
@@ -22,16 +22,16 @@
             "bufferView": 1,
             "byteOffset": 0,
             "componentType": 5126,
-            "count": 909,
+            "count": 880,
             "max": [
-                0.99993896484375,
+                0.999847412109375,
                 0.999969482421875,
-                0.9998779296875
+                0.999908447265625
             ],
             "min": [
+                -0.9998779296875,
                 -0.999969482421875,
-                -0.999969482421875,
-                -0.99981689453125
+                -0.99993896484375
             ],
             "name": "accessor_buffer_buffer-0-mesh-0_NORMAL_0",
             "type": "VEC3"
@@ -42,7 +42,7 @@
             "componentType": 5123,
             "count": 1134,
             "max": [
-                908
+                879
             ],
             "min": [
                 0
@@ -54,7 +54,7 @@
             "bufferView": 2,
             "byteOffset": 0,
             "componentType": 5126,
-            "count": 909,
+            "count": 880,
             "max": [
                 2.0108590126037598,
                 0.5999879837036133
@@ -75,7 +75,7 @@
     "bufferViews": [
         {
             "buffer": 0,
-            "byteLength": 10908,
+            "byteLength": 10560,
             "byteOffset": 0,
             "byteStride": 12,
             "name": "bufferView_buffer_buffer-0-mesh-0_POSITION_0",
@@ -83,16 +83,16 @@
         },
         {
             "buffer": 0,
-            "byteLength": 10908,
-            "byteOffset": 10908,
+            "byteLength": 10560,
+            "byteOffset": 10560,
             "byteStride": 12,
             "name": "bufferView_buffer_buffer-0-mesh-0_NORMAL_0",
             "target": 34962
         },
         {
             "buffer": 0,
-            "byteLength": 7272,
-            "byteOffset": 21816,
+            "byteLength": 7040,
+            "byteOffset": 21120,
             "byteStride": 8,
             "name": "bufferView_buffer_buffer-0-mesh-0_TEXCOORD_0_0",
             "target": 34962
@@ -100,14 +100,14 @@
         {
             "buffer": 0,
             "byteLength": 2272,
-            "byteOffset": 29088,
+            "byteOffset": 28160,
             "name": "bufferView_buffer_buffer-0-mesh-0_0",
             "target": 34963
         }
     ],
     "buffers": [
         {
-            "byteLength": 31360,
+            "byteLength": 30432,
             "name": "buffer_WoodChair",
             "uri": "buffer_WoodChair.bin"
         }
