@@ -4,16 +4,16 @@
             "bufferView": 0,
             "byteOffset": 0,
             "componentType": 5126,
-            "count": 888,
+            "count": 891,
             "max": [
-                0.22851361334323883,
-                0.8945401906967163,
-                0.2671847939491272
+                0.2553806006908417,
+                0.9997137784957886,
+                0.2985984683036804
             ],
             "min": [
-                -0.23046642541885376,
-                -0.00023872579913586378,
-                -0.2667956054210663
+                -0.2575629949569702,
+                -0.0002667934459168464,
+                -0.298163503408432
             ],
             "name": "accessor_buffer_buffer-0-mesh-0_POSITION_0",
             "type": "VEC3"
@@ -22,7 +22,7 @@
             "bufferView": 1,
             "byteOffset": 0,
             "componentType": 5126,
-            "count": 888,
+            "count": 891,
             "max": [
                 0.999847412109375,
                 0.999969482421875,
@@ -42,7 +42,7 @@
             "componentType": 5123,
             "count": 1134,
             "max": [
-                887
+                890
             ],
             "min": [
                 0
@@ -54,7 +54,7 @@
             "bufferView": 2,
             "byteOffset": 0,
             "componentType": 5126,
-            "count": 888,
+            "count": 891,
             "max": [
                 2.0108590126037598,
                 0.5999879837036133
@@ -75,7 +75,7 @@
     "bufferViews": [
         {
             "buffer": 0,
-            "byteLength": 10656,
+            "byteLength": 10692,
             "byteOffset": 0,
             "byteStride": 12,
             "name": "bufferView_buffer_buffer-0-mesh-0_POSITION_0",
@@ -83,16 +83,16 @@
         },
         {
             "buffer": 0,
-            "byteLength": 10656,
-            "byteOffset": 10656,
+            "byteLength": 10692,
+            "byteOffset": 10692,
             "byteStride": 12,
             "name": "bufferView_buffer_buffer-0-mesh-0_NORMAL_0",
             "target": 34962
         },
         {
             "buffer": 0,
-            "byteLength": 7104,
-            "byteOffset": 21312,
+            "byteLength": 7128,
+            "byteOffset": 21384,
             "byteStride": 8,
             "name": "bufferView_buffer_buffer-0-mesh-0_TEXCOORD_0_0",
             "target": 34962
@@ -100,14 +100,14 @@
         {
             "buffer": 0,
             "byteLength": 2272,
-            "byteOffset": 28416,
+            "byteOffset": 28512,
             "name": "bufferView_buffer_buffer-0-mesh-0_0",
             "target": 34963
         }
     ],
     "buffers": [
         {
-            "byteLength": 30688,
+            "byteLength": 30784,
             "name": "buffer_WoodChair",
             "uri": "buffer_WoodChair.bin"
         }
