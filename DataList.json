@@ -16,15 +16,15 @@
   },
   {
     "name": "Blender",
-    "gltf_url": "https://raw.githubusercontent.com/srinivas-bekkam/3d-models/master/kitchen/cup/Cup.gltf",
+    "gltf_url": "https://raw.githubusercontent.com/srinivas-bekkam/3d-models/master/kitchen/Blender/Blender.gltf",
     "model_url": "",
     "material_url": "",
     "texture_url": null,
-    "bin_url": "https://raw.githubusercontent.com/srinivas-bekkam/3d-models/master/kitchen/cup/buffer_Cup.bin",
+    "bin_url": "https://raw.githubusercontent.com/srinivas-bekkam/3d-models/master/kitchen/Blender/Blender.bin",
     "scale": 1,
     "ar_scale": 1,
     "category": 8,
-    "description": "Simple Cup",
+    "description": "Blender",
     "price": 99,
     "discount": 10,
     "allowedPlains": 2
