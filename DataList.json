@@ -15,6 +15,21 @@
     "allowedPlains": 2
   },
   {
+    "name": "Painting",
+    "gltf_url": "https://raw.githubusercontent.com/srinivas-bekkam/3d-models/master/Home/painting/painting.gltf",
+    "model_url": "",
+    "material_url": "",
+    "texture_url": null,
+    "bin_url": "https://raw.githubusercontent.com/srinivas-bekkam/3d-models/master/Home/painting/buffer_painting.gltf",
+    "scale": 1,
+    "ar_scale": 1,
+    "category": 7,
+    "description": "Wall Painting",
+    "price": 9999,
+    "discount": 10,
+    "allowedPlains": 1
+  },
+  {
     "name": "Terranium",
     "gltf_url": "https://raw.githubusercontent.com/srinivas-bekkam/3d-models/master/Home/terranium/terranium.gltf",
     "model_url": "",
