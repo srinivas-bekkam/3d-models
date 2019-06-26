@@ -134,6 +134,21 @@
     "discount": 10,
     "allowedPlains": 2
   },
+   {
+    "name": "Lounge Chair",
+    "gltf_url": "https://raw.githubusercontent.com/srinivas-bekkam/3d-models/master/furniture/lounge_chair/lounge_chair.gltf",
+    "model_url": "",
+    "material_url": "",
+    "texture_url": "",
+    "bin_url": "https://raw.githubusercontent.com/srinivas-bekkam/3d-models/master/furniture/lounge_chair/buffer_lounge_chair.bin",
+    "scale": 1,
+    "ar_scale": 1,
+    "category": 2,
+    "description": "Lounge Chair",
+    "price": 4999,
+    "discount": 10,
+    "allowedPlains": 2
+  },
   {
     "name": "Television",
     "gltf_url": "https://raw.githubusercontent.com/srinivas-bekkam/3d-models/master/Electronics/Television/television.gltf",
