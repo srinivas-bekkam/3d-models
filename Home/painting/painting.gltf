@@ -6,14 +6,14 @@
             "componentType": 5126,
             "count": 465,
             "max": [
-                0.16610758006572723,
+                0.09645241498947144,
                 0.006127858068794012,
-                0.17094849050045013
+                0.13845621049404144
             ],
             "min": [
-                -0.1678411364555359,
+                -0.10339255630970001,
                 -0.01133448164910078,
-                -0.16287614405155182
+                -0.13398383557796478
             ],
             "name": "accessor_buffer_Wall_Art_Classical_Plane-Mesh_POSITION_0",
             "type": "VEC3"
@@ -24,10 +24,10 @@
             "componentType": 5123,
             "count": 213,
             "max": [
-                462
+                459
             ],
             "min": [
-                1
+                3
             ],
             "name": "accessor_buffer_Wall_Art_Classical_Plane-Mesh_3",
             "type": "SCALAR"
@@ -38,10 +38,10 @@
             "componentType": 5123,
             "count": 66,
             "max": [
-                453
+                460
             ],
             "min": [
-                6
+                1
             ],
             "name": "accessor_buffer_Wall_Art_Classical_Plane-Mesh_2",
             "type": "SCALAR"
@@ -52,7 +52,7 @@
             "componentType": 5123,
             "count": 63,
             "max": [
-                463
+                464
             ],
             "min": [
                 0
@@ -66,14 +66,14 @@
             "componentType": 5126,
             "count": 465,
             "max": [
-                1.0,
+                0.9999999403953552,
                 0.9999992251396179,
-                0.7079607248306274
+                0.9999991655349731
             ],
             "min": [
-                -0.7079600095748901,
-                -0.9999945163726807,
-                -1.0
+                -1.0,
+                -0.9999851584434509,
+                -0.9999991655349731
             ],
             "name": "accessor_buffer_Wall_Art_Classical_Plane-Mesh_NORMAL_0",
             "type": "VEC3"
@@ -84,10 +84,10 @@
             "componentType": 5123,
             "count": 153,
             "max": [
-                464
+                463
             ],
             "min": [
-                19
+                9
             ],
             "name": "accessor_buffer_Wall_Art_Classical_Plane-Mesh_1",
             "type": "SCALAR"
