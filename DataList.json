@@ -119,6 +119,22 @@
     "discount": 10,
     "allowedPlains": 2
   },
+    {
+    "name": "Table",
+    "gltf_url": "https://raw.githubusercontent.com/srinivas-bekkam/3d-models/master/furniture/table/table.gltf",
+    "model_url": "",
+    "material_url": "",
+    "texture_url": "",
+    "bin_url": "",
+    "scale": 1,
+    "ar_scale": 1,
+    "category": 2,
+    "description": "Wooden brown Table",
+    "price": 999,
+    "discount": 10,
+    "allowedPlains": 2
+  },
+
   {
     "name": "Couch",
     "gltf_url": "https://raw.githubusercontent.com/srinivas-bekkam/3d-models/master/furniture/couch/couch.gltf",
