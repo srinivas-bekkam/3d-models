@@ -4,16 +4,16 @@
             "bufferView": 0,
             "byteOffset": 0,
             "componentType": 5126,
-            "count": 18616,
+            "count": 18626,
             "max": [
-                7277.03515625,
-                7298.7109375,
-                15846.712890625
+                0.06005677208304405,
+                0.1307816207408905,
+                0.05966245010495186
             ],
             "min": [
-                -7275.3876953125,
-                -7229.2578125,
-                -16605.49609375
+                -0.060043174773454666,
+                -0.1370437890291214,
+                -0.06023567169904709
             ],
             "name": "accessor_buffer_Cylinder005_1_POSITION_0",
             "type": "VEC3"
@@ -22,16 +22,16 @@
             "bufferView": 1,
             "byteOffset": 0,
             "componentType": 5126,
-            "count": 18616,
+            "count": 18626,
             "max": [
-                0.9982413053512573,
-                0.9999921917915344,
-                1.0
+                0.9982412457466125,
+                1.0,
+                0.9999921917915344
             ],
             "min": [
                 -1.0,
-                -0.9999921917915344,
-                -1.0
+                -1.0,
+                -0.9999921917915344
             ],
             "name": "accessor_buffer_Cylinder005_1_NORMAL_0",
             "type": "VEC3"
@@ -42,10 +42,10 @@
             "componentType": 5123,
             "count": 6480,
             "max": [
-                18612
+                18623
             ],
             "min": [
-                3
+                0
             ],
             "name": "accessor_buffer_Cylinder005_1_1",
             "type": "SCALAR"
@@ -54,7 +54,7 @@
             "bufferView": 2,
             "byteOffset": 0,
             "componentType": 5126,
-            "count": 18616,
+            "count": 18626,
             "max": [
                 1.0092999935150146,
                 1.0
@@ -72,10 +72,10 @@
             "componentType": 5123,
             "count": 13284,
             "max": [
-                18614
+                18624
             ],
             "min": [
-                0
+                1
             ],
             "name": "accessor_buffer_Cylinder005_1_0",
             "type": "SCALAR"
@@ -86,10 +86,10 @@
             "componentType": 5123,
             "count": 7257,
             "max": [
-                18615
+                18625
             ],
             "min": [
-                1
+                4
             ],
             "name": "accessor_buffer_Cylinder005_1_2",
             "type": "SCALAR"
@@ -103,7 +103,7 @@
     "bufferViews": [
         {
             "buffer": 0,
-            "byteLength": 223392,
+            "byteLength": 223512,
             "byteOffset": 0,
             "byteStride": 12,
             "name": "bufferView_buffer_Cylinder005_1_POSITION_0",
@@ -111,16 +111,16 @@
         },
         {
             "buffer": 0,
-            "byteLength": 223392,
-            "byteOffset": 223392,
+            "byteLength": 223512,
+            "byteOffset": 223512,
             "byteStride": 12,
             "name": "bufferView_buffer_Cylinder005_1_NORMAL_0",
             "target": 34962
         },
         {
             "buffer": 0,
-            "byteLength": 148928,
-            "byteOffset": 446784,
+            "byteLength": 149008,
+            "byteOffset": 447024,
             "byteStride": 8,
             "name": "bufferView_buffer_Cylinder005_1_TEXCOORD_0_0",
             "target": 34962
@@ -128,30 +128,30 @@
         {
             "buffer": 0,
             "byteLength": 26572,
-            "byteOffset": 595712,
+            "byteOffset": 596032,
             "name": "bufferView_buffer_Cylinder005_1_0",
             "target": 34963
         },
         {
             "buffer": 0,
             "byteLength": 12964,
-            "byteOffset": 622284,
+            "byteOffset": 622604,
             "name": "bufferView_buffer_Cylinder005_1_1",
             "target": 34963
         },
         {
             "buffer": 0,
             "byteLength": 14516,
-            "byteOffset": 635248,
+            "byteOffset": 635568,
             "name": "bufferView_buffer_Cylinder005_1_2",
             "target": 34963
         }
     ],
     "buffers": [
         {
-            "byteLength": 649764,
-            "name": "Blender",
-            "uri": "Blender.bin"
+            "byteLength": 650084,
+            "name": "buffer_Blender",
+            "uri": "buffer_Blender.bin"
         }
     ],
     "materials": [
@@ -258,19 +258,19 @@
             "mesh": 0,
             "name": "Cylinder005",
             "rotation": [
-                -0.7071068286895752,
                 0.0,
                 0.0,
-                0.7071067094802856
+                0.0,
+                1.0
             ],
             "scale": [
-                1.1358224583091214e-05,
-                1.1358223673596513e-05,
-                1.1358223673596513e-05
+                1.0,
+                1.0,
+                1.0
             ],
             "translation": [
                 0.0004078706551808864,
-                0.168722003698349,
+                0.13850364089012146,
                 0.00032732929685153067
             ]
         }
