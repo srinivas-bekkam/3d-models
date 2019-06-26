@@ -4,16 +4,16 @@
             "bufferView": 0,
             "byteOffset": 0,
             "componentType": 5126,
-            "count": 438,
+            "count": 466,
             "max": [
-                0.39737585186958313,
+                0.3973965048789978,
                 0.5316327214241028,
-                0.056017447263002396
+                0.015439978800714016
             ],
             "min": [
-                -0.39737585186958313,
+                -0.3973965048789978,
                 -0.0008566525648348033,
-                -0.014782022684812546
+                -0.05619699880480766
             ],
             "name": "accessor_buffer_TV_01_Cube-Mesh_POSITION_0",
             "type": "VEC3"
@@ -24,10 +24,10 @@
             "componentType": 5123,
             "count": 180,
             "max": [
-                435
+                464
             ],
             "min": [
-                1
+                0
             ],
             "name": "accessor_buffer_TV_01_Cube-Mesh_0",
             "type": "SCALAR"
@@ -38,10 +38,10 @@
             "componentType": 5123,
             "count": 288,
             "max": [
-                437
+                465
             ],
             "min": [
-                0
+                1
             ],
             "name": "accessor_buffer_TV_01_Cube-Mesh_1",
             "type": "SCALAR"
@@ -50,16 +50,16 @@
             "bufferView": 1,
             "byteOffset": 0,
             "componentType": 5126,
-            "count": 438,
+            "count": 466,
             "max": [
+                0.9999985694885254,
                 1.0,
-                1.0,
-                1.0
+                0.9999986290931702
             ],
             "min": [
+                -0.9999985694885254,
                 -1.0,
-                -1.0,
-                -1.0
+                -0.9999986290931702
             ],
             "name": "accessor_buffer_TV_01_Cube-Mesh_NORMAL_0",
             "type": "VEC3"
@@ -73,7 +73,7 @@
     "bufferViews": [
         {
             "buffer": 0,
-            "byteLength": 5256,
+            "byteLength": 5592,
             "byteOffset": 0,
             "byteStride": 12,
             "name": "bufferView_buffer_TV_01_Cube-Mesh_POSITION_0",
@@ -81,8 +81,8 @@
         },
         {
             "buffer": 0,
-            "byteLength": 5256,
-            "byteOffset": 5256,
+            "byteLength": 5592,
+            "byteOffset": 5592,
             "byteStride": 12,
             "name": "bufferView_buffer_TV_01_Cube-Mesh_NORMAL_0",
             "target": 34962
@@ -90,21 +90,21 @@
         {
             "buffer": 0,
             "byteLength": 364,
-            "byteOffset": 10512,
+            "byteOffset": 11184,
             "name": "bufferView_buffer_TV_01_Cube-Mesh_0",
             "target": 34963
         },
         {
             "buffer": 0,
             "byteLength": 580,
-            "byteOffset": 10876,
+            "byteOffset": 11548,
             "name": "bufferView_buffer_TV_01_Cube-Mesh_1",
             "target": 34963
         }
     ],
     "buffers": [
         {
-            "byteLength": 11456,
+            "byteLength": 12128,
             "name": "buffer_television",
             "uri": "buffer_television.bin"
         }
@@ -182,14 +182,14 @@
             "name": "TV_01_Cube",
             "rotation": [
                 0.0,
+                -0.9999992847442627,
                 0.0,
-                0.0,
-                1.0
+                0.0012174404691904783
             ],
             "scale": [
+                0.9999998211860657,
                 1.0,
-                1.0,
-                1.0
+                0.9999998211860657
             ],
             "translation": [
                 0.0,
