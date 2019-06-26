@@ -256,6 +256,21 @@
     "allowedPlains": 2
   },
   {
+    "name": "Printer",
+    "gltf_url": "https://raw.githubusercontent.com/srinivas-bekkam/3d-models/master/Electronics/laptops_and_accessories/printer.gltf",
+    "model_url": "",
+    "material_url": "",
+    "texture_url": "",
+    "bin_url": "",
+    "scale": 1,
+    "ar_scale": 1,
+    "category": 5,
+    "description": "Color Printer",
+    "price": 6200,
+    "discount": 10,
+    "allowedPlains": 2
+  },
+  {
     "name": "Stereo",
     "gltf_url": "https://raw.githubusercontent.com/srinivas-bekkam/3d-models/master/Electronics/Stereo/stereo.gltf",
     "model_url": "",
