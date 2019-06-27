@@ -4,16 +4,16 @@
             "bufferView": 0,
             "byteOffset": 0,
             "componentType": 5126,
-            "count": 1371,
+            "count": 1374,
             "max": [
-                0.1902545690536499,
-                0.6863152980804443,
-                0.023990409448742867
+                0.16399523615837097,
+                0.5915886163711548,
+                0.020679203793406487
             ],
             "min": [
-                -0.1889496147632599,
-                -3.192222663983557e-08,
-                -0.15569210052490234
+                -0.162870392203331,
+                -2.7516254164083875e-08,
+                -0.13420315086841583
             ],
             "name": "accessor_buffer_Purse_Circle.002-Mesh_POSITION_0",
             "type": "VEC3"
@@ -22,7 +22,7 @@
             "bufferView": 1,
             "byteOffset": 0,
             "componentType": 5126,
-            "count": 1371,
+            "count": 1374,
             "max": [
                 0.9999493360519409,
                 1.0,
@@ -31,7 +31,7 @@
             "min": [
                 -0.9999493360519409,
                 -1.0,
-                -0.9999493360519409
+                -0.9999492764472961
             ],
             "name": "accessor_buffer_Purse_Circle.002-Mesh_NORMAL_0",
             "type": "VEC3"
@@ -42,10 +42,10 @@
             "componentType": 5123,
             "count": 720,
             "max": [
-                1369
+                1370
             ],
             "min": [
-                1
+                2
             ],
             "name": "accessor_buffer_Purse_Circle.002-Mesh_0",
             "type": "SCALAR"
@@ -56,7 +56,7 @@
             "componentType": 5123,
             "count": 840,
             "max": [
-                1370
+                1373
             ],
             "min": [
                 0
@@ -73,7 +73,7 @@
     "bufferViews": [
         {
             "buffer": 0,
-            "byteLength": 16452,
+            "byteLength": 16488,
             "byteOffset": 0,
             "byteStride": 12,
             "name": "bufferView_buffer_Purse_Circle.002-Mesh_POSITION_0",
@@ -81,8 +81,8 @@
         },
         {
             "buffer": 0,
-            "byteLength": 16452,
-            "byteOffset": 16452,
+            "byteLength": 16488,
+            "byteOffset": 16488,
             "byteStride": 12,
             "name": "bufferView_buffer_Purse_Circle.002-Mesh_NORMAL_0",
             "target": 34962
@@ -90,21 +90,21 @@
         {
             "buffer": 0,
             "byteLength": 1444,
-            "byteOffset": 32904,
+            "byteOffset": 32976,
             "name": "bufferView_buffer_Purse_Circle.002-Mesh_0",
             "target": 34963
         },
         {
             "buffer": 0,
             "byteLength": 1684,
-            "byteOffset": 34348,
+            "byteOffset": 34420,
             "name": "bufferView_buffer_Purse_Circle.002-Mesh_1",
             "target": 34963
         }
     ],
     "buffers": [
         {
-            "byteLength": 36032,
+            "byteLength": 36104,
             "name": "buffer_purse",
             "uri": "buffer_purse.bin"
         }
