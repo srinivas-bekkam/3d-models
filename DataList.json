@@ -373,5 +373,20 @@
     "price": 3566,
     "discount": 10,
     "allowedPlains": 2
+  },
+  {
+    "name": "Iphone",
+    "gltf_url": "https://raw.githubusercontent.com/srinivas-bekkam/3d-models/master/Electronics/phones_and_accessories/iphone.gltf",
+    "model_url": "",
+    "material_url": "",
+    "texture_url": "",
+    "bin_url": "",
+    "scale": 1,
+    "ar_scale": 1,
+    "category": 9,
+    "description": "Iphone Model",
+    "price": 25566,
+    "discount": 10,
+    "allowedPlains": 2
   }
 ]

@@ -43,5 +43,10 @@
     "name": "Travelling",
     "id": 9,
     "parentId": -1
+  },
+  {
+    "name": "Phones",
+    "id": 10,
+    "parentId": 1
   }
 ]
