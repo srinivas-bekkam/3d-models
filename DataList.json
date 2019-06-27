@@ -68,7 +68,7 @@
     "bin_url": "",
     "scale": 1,
     "ar_scale": 1,
-    "category": 7,
+    "category": 3,
     "description": "Orchid",
     "price": 999,
     "discount": 10,
@@ -105,7 +105,7 @@
     "allowedPlains": 2
   },
   {
-    "name": "Aloe vera",
+    "name": "Plant",
     "gltf_url": "https://raw.githubusercontent.com/srinivas-bekkam/3d-models/master/Gardening/plant/plant_with_white_pot.gltf",
     "model_url": "",
     "material_url": "",
