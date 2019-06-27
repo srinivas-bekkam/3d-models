@@ -270,6 +270,21 @@
     "allowedPlains": 2
   },
   {
+    "name": "Book",
+    "gltf_url": "https://raw.githubusercontent.com/srinivas-bekkam/3d-models/master/Home/book/book.gltf",
+    "model_url": "",
+    "material_url": "",
+    "texture_url": "",
+    "bin_url": "",
+    "scale": 1,
+    "ar_scale": 1,
+    "category": 2,
+    "description": "Sample Book",
+    "price": 4599,
+    "discount": 10,
+    "allowedPlains": 2
+  },
+  {
     "name": "Laptop",
     "gltf_url": "https://raw.githubusercontent.com/srinivas-bekkam/3d-models/master/Electronics/laptops_and_accessories/Laptop/Laptop.gltf",
     "model_url": "",
