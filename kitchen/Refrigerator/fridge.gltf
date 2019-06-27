@@ -6,10 +6,10 @@
             "componentType": 5123,
             "count": 1026,
             "max": [
-                3417
+                3412
             ],
             "min": [
-                6
+                9
             ],
             "name": "accessor_buffer_mesh610829822_2",
             "type": "SCALAR"
@@ -20,10 +20,10 @@
             "componentType": 5123,
             "count": 438,
             "max": [
-                3415
+                3388
             ],
             "min": [
-                8
+                1
             ],
             "name": "accessor_buffer_mesh610829822_0",
             "type": "SCALAR"
@@ -37,7 +37,7 @@
                 3416
             ],
             "min": [
-                4
+                0
             ],
             "name": "accessor_buffer_mesh610829822_5",
             "type": "SCALAR"
@@ -50,12 +50,12 @@
             "max": [
                 1.0,
                 1.0,
-                1.0
+                1.0000001192092896
             ],
             "min": [
-                -1.0000001192092896,
                 -1.0,
-                -1.0
+                -1.0,
+                -1.0000001192092896
             ],
             "name": "accessor_buffer_mesh610829822_NORMAL_0",
             "type": "VEC3"
@@ -66,14 +66,14 @@
             "componentType": 5126,
             "count": 3420,
             "max": [
-                0.09639722108840942,
-                1.6895675659179688,
-                0.7171836495399475
+                0.07394032180309296,
+                1.2959623336791992,
+                0.5501070022583008
             ],
             "min": [
-                -0.6779839992523193,
-                -0.008863329887390137,
-                -0.002821028232574463
+                -0.5200393795967102,
+                -0.006798509508371353,
+                -0.0021638355683535337
             ],
             "name": "accessor_buffer_mesh610829822_POSITION_0",
             "type": "VEC3"
@@ -84,10 +84,10 @@
             "componentType": 5123,
             "count": 240,
             "max": [
-                3408
+                3379
             ],
             "min": [
-                5
+                2
             ],
             "name": "accessor_buffer_mesh610829822_4",
             "type": "SCALAR"
@@ -117,7 +117,7 @@
                 3419
             ],
             "min": [
-                0
+                11
             ],
             "name": "accessor_buffer_mesh610829822_3",
             "type": "SCALAR"
@@ -128,10 +128,10 @@
             "componentType": 5123,
             "count": 216,
             "max": [
-                3314
+                3410
             ],
             "min": [
-                2
+                3
             ],
             "name": "accessor_buffer_mesh610829822_1",
             "type": "SCALAR"
