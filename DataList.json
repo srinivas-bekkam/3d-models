@@ -105,6 +105,21 @@
     "allowedPlains": 2
   },
   {
+    "name": "Aloe vera",
+    "gltf_url": "https://raw.githubusercontent.com/srinivas-bekkam/3d-models/master/Gardening/plant/plant_with_white_pot.gltf",
+    "model_url": "",
+    "material_url": "",
+    "texture_url": null,
+    "bin_url": "",
+    "scale": 1,
+    "ar_scale": 1,
+    "category": 3,
+    "description": "Plant with white pot",
+    "price": 499,
+    "discount": 10,
+    "allowedPlains": 2
+  },
+  {
     "name": "Chair",
     "gltf_url": "https://raw.githubusercontent.com/srinivas-bekkam/3d-models/master/Furniture/chair/WoodChair.gltf",
     "model_url": "https://raw.githubusercontent.com/srinivas-bekkam/3d-models/master/chair/Chair.obj",
