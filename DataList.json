@@ -420,6 +420,21 @@
     "allowedPlains": 2
   },    
     {
+    "name": "Baking Tray",
+    "gltf_url": "https://raw.githubusercontent.com/srinivas-bekkam/3d-models/master/kitchen/tray/baking_tray/baking_tray.gltf",
+    "model_url": "",
+    "material_url": "",
+    "texture_url": "",
+    "bin_url": "",
+    "scale": 1,
+    "ar_scale": 1,
+    "category": 8,
+    "description": "Baking Tray",
+    "price": 11528,
+    "discount": 10,
+    "allowedPlains": 2
+  },    
+    {
     "name": "Knife",
     "gltf_url": "https://raw.githubusercontent.com/srinivas-bekkam/3d-models/master/kitchen/knife/knife.gltf",
     "model_url": "",

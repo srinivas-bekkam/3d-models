@@ -1,0 +1,219 @@
+{
+    "accessors": [
+        {
+            "bufferView": 2,
+            "byteOffset": 0,
+            "componentType": 5126,
+            "count": 688,
+            "max": [
+                1.0,
+                1.0
+            ],
+            "min": [
+                0.0,
+                0.0
+            ],
+            "name": "accessor_buffer_Baking_Tray_TEXCOORD_0_0",
+            "type": "VEC2"
+        },
+        {
+            "bufferView": 0,
+            "byteOffset": 0,
+            "componentType": 5126,
+            "count": 688,
+            "max": [
+                0.32761743664741516,
+                0.04388564079999924,
+                0.23552493751049042
+            ],
+            "min": [
+                -0.32761743664741516,
+                -1.3779418850390357e-07,
+                -0.23552493751049042
+            ],
+            "name": "accessor_buffer_Baking_Tray_POSITION_0",
+            "type": "VEC3"
+        },
+        {
+            "bufferView": 3,
+            "byteOffset": 0,
+            "componentType": 5123,
+            "count": 996,
+            "max": [
+                687
+            ],
+            "min": [
+                0
+            ],
+            "name": "accessor_buffer_Baking_Tray_0",
+            "type": "SCALAR"
+        },
+        {
+            "bufferView": 1,
+            "byteOffset": 0,
+            "componentType": 5126,
+            "count": 688,
+            "max": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "min": [
+                -1.0,
+                -1.0,
+                -1.0
+            ],
+            "name": "accessor_buffer_Baking_Tray_NORMAL_0",
+            "type": "VEC3"
+        }
+    ],
+    "asset": {
+        "copyright": "",
+        "generator": "blendergltf v1.2.0",
+        "version": "2.0"
+    },
+    "bufferViews": [
+        {
+            "buffer": 0,
+            "byteLength": 8256,
+            "byteOffset": 0,
+            "byteStride": 12,
+            "name": "bufferView_buffer_Baking_Tray_POSITION_0",
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteLength": 8256,
+            "byteOffset": 8256,
+            "byteStride": 12,
+            "name": "bufferView_buffer_Baking_Tray_NORMAL_0",
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteLength": 5504,
+            "byteOffset": 16512,
+            "byteStride": 8,
+            "name": "bufferView_buffer_Baking_Tray_TEXCOORD_0_0",
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteLength": 1996,
+            "byteOffset": 22016,
+            "name": "bufferView_buffer_Baking_Tray_0",
+            "target": 34963
+        }
+    ],
+    "buffers": [
+        {
+            "byteLength": 24012,
+            "name": "buffer_baking_tray",
+            "uri": "buffer_baking_tray.bin"
+        }
+    ],
+    "images": [
+        {
+            "name": "510 Baking Tray 01.png",
+            "uri": "510 Baking Tray 01.png"
+        }
+    ],
+    "materials": [
+        {
+            "alphaMode": "OPAQUE",
+            "doubleSided": false,
+            "emissiveFactor": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "name": "Mat",
+            "pbrMetallicRoughness": {
+                "baseColorFactor": [
+                    0.64000004529953,
+                    0.64000004529953,
+                    0.64000004529953,
+                    1.0
+                ],
+                "baseColorTexture": {
+                    "index": 0,
+                    "texCoord": 0
+                },
+                "metallicFactor": 0.0,
+                "roughnessFactor": 1.0
+            }
+        }
+    ],
+    "meshes": [
+        {
+            "name": "Baking_Tray",
+            "primitives": [
+                {
+                    "attributes": {
+                        "NORMAL": 3,
+                        "POSITION": 1,
+                        "TEXCOORD_0": 0
+                    },
+                    "indices": 2,
+                    "material": 0,
+                    "mode": 4
+                }
+            ]
+        }
+    ],
+    "nodes": [
+        {
+            "mesh": 0,
+            "name": "Baking_Tray",
+            "rotation": [
+                0.0,
+                0.0,
+                0.0,
+                1.0
+            ],
+            "scale": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "translation": [
+                0.0,
+                0.0,
+                0.0
+            ]
+        }
+    ],
+    "samplers": [
+        {
+            "magFilter": 9729,
+            "minFilter": 9987,
+            "name": "Kd",
+            "wrapS": 10497,
+            "wrapT": 10497
+        }
+    ],
+    "scene": 0,
+    "scenes": [
+        {
+            "extras": {
+                "background_color": [
+                    0.05087608844041824,
+                    0.05087608844041824,
+                    0.05087608844041824
+                ],
+                "frames_per_second": 24
+            },
+            "name": "Scene",
+            "nodes": [
+                0
+            ]
+        }
+    ],
+    "textures": [
+        {
+            "name": "Kd",
+            "sampler": 0,
+            "source": 0
+        }
+    ]
+}
