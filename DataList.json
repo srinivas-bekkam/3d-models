@@ -106,11 +106,11 @@
   },
   {
     "name": "Chair",
-    "gltf_url": "https://raw.githubusercontent.com/srinivas-bekkam/3d-models/master/furniture/chair/WoodChair.gltf",
+    "gltf_url": "https://raw.githubusercontent.com/srinivas-bekkam/3d-models/master/Furniture/chair/WoodChair.gltf",
     "model_url": "https://raw.githubusercontent.com/srinivas-bekkam/3d-models/master/chair/Chair.obj",
     "material_url": "https://raw.githubusercontent.com/srinivas-bekkam/3d-models/master/chair/Chair.mtl",
     "texture_url": "https://raw.githubusercontent.com/srinivas-bekkam/3d-models/master/chair/Chair_BaseColor.png",
-    "bin_url": "https://raw.githubusercontent.com/srinivas-bekkam/3d-models/master/furniture/chair/buffer_WoodChair.bin",
+    "bin_url": "https://raw.githubusercontent.com/srinivas-bekkam/3d-models/master/Furniture/chair/buffer_WoodChair.bin",
     "scale": 1,
     "ar_scale": 1,
     "category": 2,
@@ -119,9 +119,9 @@
     "discount": 10,
     "allowedPlains": 2
   },
-    {
+  {
     "name": "Table",
-    "gltf_url": "https://raw.githubusercontent.com/srinivas-bekkam/3d-models/master/furniture/table/table.gltf",
+    "gltf_url": "https://raw.githubusercontent.com/srinivas-bekkam/3d-models/master/Furniture/table/table.gltf",
     "model_url": "",
     "material_url": "",
     "texture_url": "",
@@ -134,14 +134,13 @@
     "discount": 10,
     "allowedPlains": 2
   },
-
   {
     "name": "Couch",
-    "gltf_url": "https://raw.githubusercontent.com/srinivas-bekkam/3d-models/master/furniture/couch/couch.gltf",
+    "gltf_url": "https://raw.githubusercontent.com/srinivas-bekkam/3d-models/master/Furniture/couch/couch.gltf",
     "model_url": "",
     "material_url": "",
     "texture_url": "",
-    "bin_url": "https://raw.githubusercontent.com/srinivas-bekkam/3d-models/master/furniture/couch/buffer_couch.gltf",
+    "bin_url": "https://raw.githubusercontent.com/srinivas-bekkam/3d-models/master/Furniture/couch/buffer_couch.gltf",
     "scale": 1,
     "ar_scale": 1,
     "category": 2,
@@ -152,7 +151,7 @@
   },
   {
     "name": "Bed set",
-    "gltf_url": "https://raw.githubusercontent.com/srinivas-bekkam/3d-models/master/furniture/bed_with_accessories/bed_with_accessories.gltf",
+    "gltf_url": "https://raw.githubusercontent.com/srinivas-bekkam/3d-models/master/Furniture/bed_with_accessories/bed_with_accessories.gltf",
     "model_url": "",
     "material_url": "",
     "texture_url": "",
@@ -165,9 +164,9 @@
     "discount": 10,
     "allowedPlains": 2
   },
-   {
+  {
     "name": "Single Bed",
-    "gltf_url": "https://raw.githubusercontent.com/srinivas-bekkam/3d-models/master/furniture/single_bed/single_bed.gltf",
+    "gltf_url": "https://raw.githubusercontent.com/srinivas-bekkam/3d-models/master/Furniture/single_bed/single_bed.gltf",
     "model_url": "",
     "material_url": "",
     "texture_url": "",
@@ -180,9 +179,9 @@
     "discount": 10,
     "allowedPlains": 2
   },
-   {
+  {
     "name": "Desk",
-    "gltf_url": "https://raw.githubusercontent.com/srinivas-bekkam/3d-models/master/furniture/desk/Desk.gltf",
+    "gltf_url": "https://raw.githubusercontent.com/srinivas-bekkam/3d-models/master/Furniture/desk/Desk.gltf",
     "model_url": "",
     "material_url": "",
     "texture_url": "",
@@ -195,13 +194,13 @@
     "discount": 10,
     "allowedPlains": 2
   },
-   {
+  {
     "name": "Lounge Chair",
-    "gltf_url": "https://raw.githubusercontent.com/srinivas-bekkam/3d-models/master/furniture/lounge_chair/lounge_chair.gltf",
+    "gltf_url": "https://raw.githubusercontent.com/srinivas-bekkam/3d-models/master/Furniture/lounge_chair/lounge_chair.gltf",
     "model_url": "",
     "material_url": "",
     "texture_url": "",
-    "bin_url": "https://raw.githubusercontent.com/srinivas-bekkam/3d-models/master/furniture/lounge_chair/buffer_lounge_chair.bin",
+    "bin_url": "https://raw.githubusercontent.com/srinivas-bekkam/3d-models/master/Furniture/lounge_chair/buffer_lounge_chair.bin",
     "scale": 1,
     "ar_scale": 1,
     "category": 2,
@@ -227,11 +226,11 @@
   },
   {
     "name": "Shoe Case",
-    "gltf_url": "https://raw.githubusercontent.com/srinivas-bekkam/3d-models/master/furniture/shoecase/ShoeCase.gltf",
+    "gltf_url": "https://raw.githubusercontent.com/srinivas-bekkam/3d-models/master/Furniture/shoecase/ShoeCase.gltf",
     "model_url": "",
     "material_url": "",
     "texture_url": "",
-    "bin_url": "https://raw.githubusercontent.com/srinivas-bekkam/3d-models/master/furniture/shoecase/buffer_ShoeCase.gltf",
+    "bin_url": "https://raw.githubusercontent.com/srinivas-bekkam/3d-models/master/Furniture/shoecase/buffer_ShoeCase.gltf",
     "scale": 1,
     "ar_scale": 1,
     "category": 2,
