@@ -61,7 +61,7 @@
   },
   {
     "name": "Orchid",
-    "gltf_url": "https://raw.githubusercontent.com/srinivas-bekkam/3d-models/master/Home/orchid/orchid.gltf",
+    "gltf_url": "https://raw.githubusercontent.com/srinivas-bekkam/3d-models/master/Gardening/orchid/orchid.gltf",
     "model_url": "",
     "material_url": "",
     "texture_url": null,
@@ -91,11 +91,11 @@
   },
   {
     "name": "Cactus",
-    "gltf_url": "https://raw.githubusercontent.com/srinivas-bekkam/3d-models/master/cactus/cactus.gltf",
+    "gltf_url": "https://raw.githubusercontent.com/srinivas-bekkam/3d-models/master/Gardening/cactus/cactus.gltf",
     "model_url": "",
     "material_url": "",
     "texture_url": null,
-    "bin_url": "https://raw.githubusercontent.com/srinivas-bekkam/3d-models/master/cactus/buffer_cactus.bin",
+    "bin_url": "",
     "scale": 1,
     "ar_scale": 1,
     "category": 3,
