@@ -310,11 +310,25 @@
     "ar_scale": 1,
     "category": 8,
     "description": "Refrigerator",
+    "price": 21528,
+    "discount": 10,
+    "allowedPlains": 2
+  },
+    {
+    "name": "Gas Stove",
+    "gltf_url": "https://raw.githubusercontent.com/srinivas-bekkam/3d-models/master/kitchen/Stove/stove.gltf",
+    "model_url": "",
+    "material_url": "",
+    "texture_url": "",
+    "bin_url": "",
+    "scale": 1,
+    "ar_scale": 1,
+    "category": 8,
+    "description": "Gas Stove",
     "price": 11528,
     "discount": 10,
     "allowedPlains": 2
   },
-
   {
     "name": "BoomBox",
     "gltf_url": "https://raw.githubusercontent.com/srinivas-bekkam/3d-models/master/Electronics/music_systems/boombox.gltf",
