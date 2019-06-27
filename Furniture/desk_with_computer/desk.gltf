@@ -6,10 +6,10 @@
             "componentType": 5123,
             "count": 72,
             "max": [
-                3399
+                3577
             ],
             "min": [
-                5
+                11
             ],
             "name": "accessor_buffer_model_2",
             "type": "SCALAR"
@@ -20,10 +20,10 @@
             "componentType": 5123,
             "count": 4218,
             "max": [
-                3642
+                3641
             ],
             "min": [
-                0
+                1
             ],
             "name": "accessor_buffer_model_6",
             "type": "SCALAR"
@@ -34,10 +34,10 @@
             "componentType": 5123,
             "count": 132,
             "max": [
-                3361
+                3634
             ],
             "min": [
-                24
+                8
             ],
             "name": "accessor_buffer_model_0",
             "type": "SCALAR"
@@ -48,10 +48,10 @@
             "componentType": 5123,
             "count": 36,
             "max": [
-                3610
+                3364
             ],
             "min": [
-                70
+                126
             ],
             "name": "accessor_buffer_model_5",
             "type": "SCALAR"
@@ -62,10 +62,10 @@
             "componentType": 5123,
             "count": 864,
             "max": [
-                3638
+                3642
             ],
             "min": [
-                3
+                0
             ],
             "name": "accessor_buffer_model_1",
             "type": "SCALAR"
@@ -76,14 +76,14 @@
             "componentType": 5126,
             "count": 3643,
             "max": [
-                0.6896653175354004,
-                0.5778012275695801,
-                0.9593728184700012
+                0.551745593547821,
+                0.9709717631340027,
+                0.4468270540237427
             ],
             "min": [
-                -0.7883555293083191,
-                -0.6740416288375854,
-                -0.7855768799781799
+                -0.639387845993042,
+                -0.43527892231941223,
+                -0.5620301365852356
             ],
             "name": "accessor_buffer_model_POSITION_0",
             "type": "VEC3"
@@ -94,10 +94,10 @@
             "componentType": 5123,
             "count": 138,
             "max": [
-                3621
+                3568
             ],
             "min": [
-                31
+                2
             ],
             "name": "accessor_buffer_model_7",
             "type": "SCALAR"
@@ -109,13 +109,13 @@
             "count": 3643,
             "max": [
                 0.9999155402183533,
-                0.9991548657417297,
-                0.9999493360519409
+                0.9999493360519409,
+                0.9991549253463745
             ],
             "min": [
                 -0.999915599822998,
-                -0.9991548657417297,
-                -0.9998763203620911
+                -0.9998762607574463,
+                -0.9991548657417297
             ],
             "name": "accessor_buffer_model_NORMAL_0",
             "type": "VEC3"
@@ -126,10 +126,10 @@
             "componentType": 5123,
             "count": 204,
             "max": [
-                3628
+                3591
             ],
             "min": [
-                4
+                7
             ],
             "name": "accessor_buffer_model_3",
             "type": "SCALAR"
@@ -140,10 +140,10 @@
             "componentType": 5123,
             "count": 168,
             "max": [
-                3567
+                3558
             ],
             "min": [
-                9
+                39
             ],
             "name": "accessor_buffer_model_4",
             "type": "SCALAR"
@@ -481,10 +481,10 @@
             "mesh": 0,
             "name": "model",
             "rotation": [
-                -0.7071068286895752,
                 0.0,
                 0.0,
-                0.7071067094802856
+                0.0,
+                1.0
             ],
             "scale": [
                 1.0,
@@ -493,7 +493,7 @@
             ],
             "translation": [
                 0.0,
-                0.0,
+                0.38859501481056213,
                 0.0
             ]
         }
