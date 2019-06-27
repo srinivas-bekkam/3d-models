@@ -390,6 +390,21 @@
     "allowedPlains": 2
   },    
     {
+    "name": "Large Oven",
+    "gltf_url": "https://raw.githubusercontent.com/srinivas-bekkam/3d-models/master/kitchen/oven/large_oven.gltf",
+    "model_url": "",
+    "material_url": "",
+    "texture_url": "",
+    "bin_url": "",
+    "scale": 1,
+    "ar_scale": 1,
+    "category": 8,
+    "description": "Large Oven",
+    "price": 11528,
+    "discount": 10,
+    "allowedPlains": 2
+  },    
+    {
     "name": "Knife",
     "gltf_url": "https://raw.githubusercontent.com/srinivas-bekkam/3d-models/master/kitchen/knife/knife.gltf",
     "model_url": "",
