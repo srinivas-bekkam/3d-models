@@ -376,7 +376,7 @@
   },
   {
     "name": "Iphone",
-    "gltf_url": "https://raw.githubusercontent.com/srinivas-bekkam/3d-models/master/Electronics/phones_and_accessories/iphone.gltf",
+    "gltf_url": "https://raw.githubusercontent.com/srinivas-bekkam/3d-models/master/Electronics/phones_and_accessories/iphone/iphone.gltf",
     "model_url": "",
     "material_url": "",
     "texture_url": "",
@@ -386,6 +386,21 @@
     "category": 9,
     "description": "Iphone Model",
     "price": 25566,
+    "discount": 10,
+    "allowedPlains": 2
+  },
+  {
+    "name": "Smart Phone",
+    "gltf_url": "https://raw.githubusercontent.com/srinivas-bekkam/3d-models/master/Electronics/phones_and_accessories/smartphone/smartphone.gltf",
+    "model_url": "",
+    "material_url": "",
+    "texture_url": "",
+    "bin_url": "",
+    "scale": 1,
+    "ar_scale": 1,
+    "category": 9,
+    "description": "Smart Phone Model",
+    "price": 19999,
     "discount": 10,
     "allowedPlains": 2
   }
