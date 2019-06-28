@@ -510,6 +510,21 @@
     "allowedPlains": 2
   },
     {
+    "name": "Frying Pan",
+    "gltf_url": "https://raw.githubusercontent.com/srinivas-bekkam/3d-models/master/kitchen/frying_pan/frying_pan.gltf",
+    "model_url": "",
+    "material_url": "",
+    "texture_url": "",
+    "bin_url": "",
+    "scale": 1,
+    "ar_scale": 1,
+    "category": 8,
+    "description": "Frying Pan(Red Color)",
+    "price": 21528,
+    "discount": 10,
+    "allowedPlains": 2
+  },
+    {
     "name": "Gas Stove",
     "gltf_url": "https://raw.githubusercontent.com/srinivas-bekkam/3d-models/master/kitchen/Stove/stove.gltf",
     "model_url": "",
