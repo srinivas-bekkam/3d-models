@@ -278,7 +278,7 @@
     "bin_url": "https://raw.githubusercontent.com/srinivas-bekkam/3d-models/master/Electronics/Television/buffer_television.bin",
     "scale": 1,
     "ar_scale": 1,
-    "category": 1,
+    "category": 6,
     "description": "43 inch LED Television",
     "price": 44999,
     "discount": 10,
@@ -356,7 +356,7 @@
     "category": 5,
     "description": "Dslr Camera",
     "price": 56200,
-    "discount": 10,
+    "discount": 11,
     "allowedPlains": 2
   },
   {

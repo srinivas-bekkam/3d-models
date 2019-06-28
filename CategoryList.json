@@ -25,7 +25,7 @@
     "parentId": 1
   },
   {
-    "name": "Music Systems",
+    "name": "TVs & Music Systems",
     "id": 6,
     "parentId": 1
   },
@@ -47,6 +47,11 @@
   {
     "name": "Phones",
     "id": 10,
+    "parentId": 1
+  },
+  {
+    "name": "Cameras",
+    "id": 11,
     "parentId": 1
   }
 ]
