@@ -45,6 +45,21 @@
     "allowedPlains": 1
   },
   {
+    "name": "Rubik's Cube",
+    "gltf_url": "https://raw.githubusercontent.com/srinivas-bekkam/3d-models/master/Home/rcube/rcube.gltf",
+    "model_url": "",
+    "material_url": "",
+    "texture_url": "",
+    "bin_url": "",
+    "scale": 1,
+    "ar_scale": 1,
+    "category": 7,
+    "description": "Rubik's Cube",
+    "price": 9999,
+    "discount": 10,
+    "allowedPlains": 1
+  },
+  {
     "name": "Terranium",
     "gltf_url": "https://raw.githubusercontent.com/srinivas-bekkam/3d-models/master/Home/terranium/terranium.gltf",
     "model_url": "",
@@ -325,6 +340,21 @@
     "ar_scale": 1,
     "category": 5,
     "description": "15.6 inch Laptop",
+    "price": 56200,
+    "discount": 10,
+    "allowedPlains": 2
+  },
+  {
+    "name": "Dslr Camera",
+    "gltf_url": "https://raw.githubusercontent.com/srinivas-bekkam/3d-models/master/Electronics/camera/dslr_camera/camera.gltf",
+    "model_url": "",
+    "material_url": "",
+    "texture_url": "",
+    "bin_url": "",
+    "scale": 1,
+    "ar_scale": 1,
+    "category": 5,
+    "description": "Dslr Camera",
     "price": 56200,
     "discount": 10,
     "allowedPlains": 2
