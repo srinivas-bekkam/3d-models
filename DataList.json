@@ -658,5 +658,20 @@
     "price": 19999,
     "discount": 10,
     "allowedPlains": 2
+  },
+  {
+    "name": "Pineapple",
+    "gltf_url": "https://raw.githubusercontent.com/srinivas-bekkam/3d-models/master/FruitsAndVegetables/pineapple/pineapple.gltf",
+    "model_url": "",
+    "material_url": "",
+    "texture_url": "",
+    "bin_url": "",
+    "scale": 1,
+    "ar_scale": 1,
+    "category": 12,
+    "description": "Pineapple",
+    "price": 19999,
+    "discount": 10,
+    "allowedPlains": 2
   }
 ]
