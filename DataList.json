@@ -75,6 +75,21 @@
     "allowedPlains": 2
   },
   {
+    "name": "Lamp",
+    "gltf_url": "https://raw.githubusercontent.com/srinivas-bekkam/3d-models/master/Home/lamp/lamp.gltf",
+    "model_url": "",
+    "material_url": "",
+    "texture_url": "",
+    "bin_url": "",
+    "scale": 1,
+    "ar_scale": 1,
+    "category": 7,
+    "description": "Lamp",
+    "price": 999,
+    "discount": 10,
+    "allowedPlains": 2
+  },
+  {
     "name": "Orchid",
     "gltf_url": "https://raw.githubusercontent.com/srinivas-bekkam/3d-models/master/Gardening/orchid/orchid.gltf",
     "model_url": "",
