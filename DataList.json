@@ -57,7 +57,7 @@
     "description": "Fish Tank",
     "price": 9999,
     "discount": 10,
-    "allowedPlains": 1
+    "allowedPlains": 2
   },
   {
     "name": "Fish Tank(Large)",
@@ -72,7 +72,7 @@
     "description": "Fish Tank(Large)",
     "price": 9999,
     "discount": 10,
-    "allowedPlains": 1
+    "allowedPlains": 2
   },
   {
     "name": "Rubik's Cube",
