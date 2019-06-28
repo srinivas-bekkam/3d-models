@@ -4015,11 +4015,11 @@
         },
         {
             "alphaMode": "BLEND",
-            "doubleSided": true,
+            "doubleSided": false,
             "emissiveFactor": [
-                0.0,
-                0.0,
-                0.0
+                0.25854766368865967,
+                0.25854766368865967,
+                0.25854766368865967
             ],
             "name": "03___Default",
             "pbrMetallicRoughness": {
@@ -4035,11 +4035,11 @@
         },
         {
             "alphaMode": "BLEND",
-            "doubleSided": true,
+            "doubleSided": false,
             "emissiveFactor": [
-                0.0,
-                0.0,
-                0.0
+                0.19243671000003815,
+                0.19243671000003815,
+                0.19243671000003815
             ],
             "name": "07___Default",
             "pbrMetallicRoughness": {
@@ -4054,19 +4054,19 @@
             }
         },
         {
-            "alphaMode": "BLEND",
+            "alphaMode": "OPAQUE",
             "doubleSided": false,
             "emissiveFactor": [
-                0.0,
-                0.0,
-                0.0
+                0.11906620860099792,
+                0.11906620860099792,
+                0.11906620860099792
             ],
             "name": "_crayfishdiffuse",
             "pbrMetallicRoughness": {
                 "baseColorFactor": [
-                    0.03920000046491623,
-                    0.03920000046491623,
-                    0.03920000046491623,
+                    0.0,
+                    0.32922983169555664,
+                    0.36260786652565,
                     1.0
                 ],
                 "metallicFactor": 0.0,
