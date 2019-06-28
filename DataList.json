@@ -189,7 +189,22 @@
     "scale": 1,
     "ar_scale": 1,
     "category": 2,
-    "description": "Garden Bench(Brown0",
+    "description": "Garden Bench(Brown)",
+    "price": 4999,
+    "discount": 10,
+    "allowedPlains": 2
+  },
+  {
+    "name": "Stool",
+    "gltf_url": "https://raw.githubusercontent.com/srinivas-bekkam/3d-models/master/Furniture/stool/stool.gltf",
+    "model_url": "",
+    "material_url": "",
+    "texture_url": "",
+    "bin_url": "",
+    "scale": 1,
+    "ar_scale": 1,
+    "category": 2,
+    "description": "Brown Stool",
     "price": 4999,
     "discount": 10,
     "allowedPlains": 2
