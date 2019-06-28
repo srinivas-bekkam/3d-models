@@ -135,6 +135,21 @@
     "allowedPlains": 2
   },
   {
+    "name": "Office Chair",
+    "gltf_url": "https://raw.githubusercontent.com/srinivas-bekkam/3d-models/master/Furniture/office_chair/chair.gltf",
+    "model_url": "",
+    "material_url": "",
+    "texture_url": "",
+    "bin_url": "",
+    "scale": 1,
+    "ar_scale": 1,
+    "category": 2,
+    "description": "Office Chair",
+    "price": 4999,
+    "discount": 10,
+    "allowedPlains": 2
+  },
+  {
     "name": "Table",
     "gltf_url": "https://raw.githubusercontent.com/srinivas-bekkam/3d-models/master/Furniture/table/table.gltf",
     "model_url": "",
@@ -310,6 +325,21 @@
     "ar_scale": 1,
     "category": 5,
     "description": "15.6 inch Laptop",
+    "price": 56200,
+    "discount": 10,
+    "allowedPlains": 2
+  },
+  {
+    "name": "Computer",
+    "gltf_url": "https://raw.githubusercontent.com/srinivas-bekkam/3d-models/master/Electronics/laptops_and_accessories/computer/computer.gltf",
+    "model_url": "",
+    "material_url": "",
+    "texture_url": "",
+    "bin_url": "",
+    "scale": 1,
+    "ar_scale": 1,
+    "category": 5,
+    "description": "Desktop Computer",
     "price": 56200,
     "discount": 10,
     "allowedPlains": 2
