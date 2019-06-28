@@ -75,6 +75,21 @@
     "allowedPlains": 2
   },
   {
+    "name": "Fish Tank (Round)",
+    "gltf_url": "https://raw.githubusercontent.com/srinivas-bekkam/3d-models/master/Home/fishtank_round/fishtank_round.gltf",
+    "model_url": "",
+    "material_url": "",
+    "texture_url": "",
+    "bin_url": "",
+    "scale": 1,
+    "ar_scale": 1,
+    "category": 7,
+    "description": "Fish Tank(Round)",
+    "price": 9999,
+    "discount": 10,
+    "allowedPlains": 2
+  },
+  {
     "name": "Rubik's Cube",
     "gltf_url": "https://raw.githubusercontent.com/srinivas-bekkam/3d-models/master/Home/rcube/rcube.gltf",
     "model_url": "",
