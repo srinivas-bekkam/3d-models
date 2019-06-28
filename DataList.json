@@ -524,7 +524,7 @@
     "discount": 10,
     "allowedPlains": 2
   },
-    {
+  {
     "name": "Refrigerator",
     "gltf_url": "https://raw.githubusercontent.com/srinivas-bekkam/3d-models/master/kitchen/Refrigerator/fridge.gltf",
     "model_url": "",
@@ -539,7 +539,7 @@
     "discount": 10,
     "allowedPlains": 2
   },
-    {
+  {
     "name": "Frying Pan",
     "gltf_url": "https://raw.githubusercontent.com/srinivas-bekkam/3d-models/master/kitchen/frying_pan/frying_pan.gltf",
     "model_url": "",
@@ -554,7 +554,7 @@
     "discount": 10,
     "allowedPlains": 2
   },
-    {
+  {
     "name": "Gas Stove",
     "gltf_url": "https://raw.githubusercontent.com/srinivas-bekkam/3d-models/master/kitchen/Stove/stove.gltf",
     "model_url": "",
@@ -568,8 +568,8 @@
     "price": 11528,
     "discount": 10,
     "allowedPlains": 2
-  },    
-    {
+  },
+  {
     "name": "Dish Washer",
     "gltf_url": "https://raw.githubusercontent.com/srinivas-bekkam/3d-models/master/kitchen/dishwasher/diswasher.gltf",
     "model_url": "",
@@ -583,8 +583,8 @@
     "price": 11528,
     "discount": 10,
     "allowedPlains": 2
-  },    
-    {
+  },
+  {
     "name": "Oven Large",
     "gltf_url": "https://raw.githubusercontent.com/srinivas-bekkam/3d-models/master/kitchen/oven/large_oven.gltf",
     "model_url": "",
@@ -598,8 +598,8 @@
     "price": 11528,
     "discount": 10,
     "allowedPlains": 2
-  },    
-    {
+  },
+  {
     "name": "Oven Small",
     "gltf_url": "https://raw.githubusercontent.com/srinivas-bekkam/3d-models/master/kitchen/oven/small_oven.gltf",
     "model_url": "",
@@ -613,8 +613,8 @@
     "price": 11528,
     "discount": 10,
     "allowedPlains": 2
-  },    
-    {
+  },
+  {
     "name": "Baking Tray",
     "gltf_url": "https://raw.githubusercontent.com/srinivas-bekkam/3d-models/master/kitchen/tray/baking_tray/baking_tray.gltf",
     "model_url": "",
@@ -628,8 +628,8 @@
     "price": 11528,
     "discount": 10,
     "allowedPlains": 2
-  },    
-    {
+  },
+  {
     "name": "Knife",
     "gltf_url": "https://raw.githubusercontent.com/srinivas-bekkam/3d-models/master/kitchen/knife/knife.gltf",
     "model_url": "",
@@ -643,7 +643,7 @@
     "price": 11528,
     "discount": 10,
     "allowedPlains": 2
-  },    
+  },
   {
     "name": "Toaster",
     "gltf_url": "https://raw.githubusercontent.com/srinivas-bekkam/3d-models/master/kitchen/toaster/toaster.gltf",
