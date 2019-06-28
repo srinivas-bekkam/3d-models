@@ -4035,7 +4035,7 @@
         },
         {
             "alphaMode": "BLEND",
-            "doubleSided": false,
+            "doubleSided": true,
             "emissiveFactor": [
                 0.19243671000003815,
                 0.19243671000003815,
@@ -4064,9 +4064,9 @@
             "name": "_crayfishdiffuse",
             "pbrMetallicRoughness": {
                 "baseColorFactor": [
-                    0.0,
-                    0.32922983169555664,
-                    0.36260786652565,
+                    1.0,
+                    0.9828816652297974,
+                    0.9957040548324585,
                     1.0
                 ],
                 "metallicFactor": 0.0,
