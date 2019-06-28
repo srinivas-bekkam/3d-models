@@ -628,5 +628,20 @@
     "price": 19999,
     "discount": 10,
     "allowedPlains": 2
+  },
+  {
+    "name": "Cabbage",
+    "gltf_url": "https://raw.githubusercontent.com/srinivas-bekkam/3d-models/master/FruitsAndVegetables/cabbage/cabbage.gltf",
+    "model_url": "",
+    "material_url": "",
+    "texture_url": "",
+    "bin_url": "",
+    "scale": 1,
+    "ar_scale": 1,
+    "category": 12,
+    "description": "Cabbage",
+    "price": 19999,
+    "discount": 10,
+    "allowedPlains": 2
   }
 ]
