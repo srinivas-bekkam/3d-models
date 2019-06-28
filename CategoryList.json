@@ -53,5 +53,10 @@
     "name": "Cameras",
     "id": 11,
     "parentId": 1
+  },
+  {
+    "name": "Fruits & Vegetables",
+    "id": 12,
+    "parentId": -1
   }
 ]

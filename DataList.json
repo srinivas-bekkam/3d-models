@@ -613,5 +613,20 @@
     "price": 19999,
     "discount": 10,
     "allowedPlains": 2
+  },
+  {
+    "name": "Peach",
+    "gltf_url": "https://raw.githubusercontent.com/srinivas-bekkam/3d-models/master/FruitsAndVegetables/peach/peach.gltf",
+    "model_url": "",
+    "material_url": "",
+    "texture_url": "",
+    "bin_url": "",
+    "scale": 1,
+    "ar_scale": 1,
+    "category": 12,
+    "description": "Peach",
+    "price": 19999,
+    "discount": 10,
+    "allowedPlains": 2
   }
 ]
