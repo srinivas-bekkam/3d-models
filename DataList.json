@@ -25,7 +25,7 @@
     "ar_scale": 1,
     "category": 8,
     "description": "Blender",
-    "price": 99,
+    "price": 2754,
     "discount": 10,
     "allowedPlains": 2
   },
@@ -40,7 +40,7 @@
     "ar_scale": 1,
     "category": 7,
     "description": "Wall Painting",
-    "price": 9999,
+    "price": 999,
     "discount": 10,
     "allowedPlains": 1
   },
@@ -55,7 +55,7 @@
     "ar_scale": 1,
     "category": 7,
     "description": "Fish Tank",
-    "price": 9999,
+    "price": 499,
     "discount": 10,
     "allowedPlains": 2
   },
@@ -70,7 +70,7 @@
     "ar_scale": 1,
     "category": 7,
     "description": "Fish Tank(Large)",
-    "price": 9999,
+    "price": 2999,
     "discount": 10,
     "allowedPlains": 2
   },
@@ -85,7 +85,7 @@
     "ar_scale": 1,
     "category": 7,
     "description": "Fish Tank(Round)",
-    "price": 9999,
+    "price": 599,
     "discount": 10,
     "allowedPlains": 2
   },
@@ -100,7 +100,7 @@
     "ar_scale": 1,
     "category": 7,
     "description": "Rubik's Cube",
-    "price": 9999,
+    "price": 99,
     "discount": 10,
     "allowedPlains": 1
   },
@@ -115,7 +115,7 @@
     "ar_scale": 1,
     "category": 7,
     "description": "Glass Terranium",
-    "price": 999,
+    "price": 4999,
     "discount": 10,
     "allowedPlains": 2
   },
@@ -130,7 +130,7 @@
     "ar_scale": 1,
     "category": 7,
     "description": "Lamp",
-    "price": 999,
+    "price": 1999,
     "discount": 10,
     "allowedPlains": 2
   },
@@ -145,7 +145,7 @@
     "ar_scale": 1,
     "category": 3,
     "description": "Orchid",
-    "price": 999,
+    "price": 399,
     "discount": 10,
     "allowedPlains": 2
   },
@@ -175,7 +175,7 @@
     "ar_scale": 1,
     "category": 3,
     "description": "Cactus Plant",
-    "price": 499,
+    "price": 299,
     "discount": 10,
     "allowedPlains": 2
   },
@@ -190,7 +190,7 @@
     "ar_scale": 1,
     "category": 3,
     "description": "Plant with white pot",
-    "price": 499,
+    "price": 249,
     "discount": 10,
     "allowedPlains": 2
   },
@@ -205,7 +205,7 @@
     "ar_scale": 1,
     "category": 2,
     "description": "Wooden brown chair",
-    "price": 4999,
+    "price": 1999,
     "discount": 10,
     "allowedPlains": 2
   },
@@ -220,7 +220,7 @@
     "ar_scale": 1,
     "category": 2,
     "description": "Office Chair",
-    "price": 4999,
+    "price": 2999,
     "discount": 10,
     "allowedPlains": 2
   },
@@ -235,7 +235,7 @@
     "ar_scale": 1,
     "category": 2,
     "description": "Garden Bench(Brown)",
-    "price": 4999,
+    "price": 8999,
     "discount": 10,
     "allowedPlains": 2
   },
@@ -250,7 +250,7 @@
     "ar_scale": 1,
     "category": 2,
     "description": "Brown Stool",
-    "price": 4999,
+    "price": 859,
     "discount": 10,
     "allowedPlains": 2
   },
@@ -280,7 +280,7 @@
     "ar_scale": 1,
     "category": 2,
     "description": "Swing",
-    "price": 4999,
+    "price": 24999,
     "discount": 10,
     "allowedPlains": 2
   },
@@ -295,7 +295,7 @@
     "ar_scale": 1,
     "category": 2,
     "description": "Wooden brown Table",
-    "price": 999,
+    "price": 1999,
     "discount": 10,
     "allowedPlains": 2
   },
@@ -310,7 +310,7 @@
     "ar_scale": 1,
     "category": 2,
     "description": "Couch",
-    "price": 4999,
+    "price": 14999,
     "discount": 10,
     "allowedPlains": 2
   },
@@ -340,7 +340,7 @@
     "ar_scale": 1,
     "category": 2,
     "description": "Small sized Bed",
-    "price": 14999,
+    "price": 7999,
     "discount": 10,
     "allowedPlains": 2
   },
@@ -370,7 +370,7 @@
     "ar_scale": 1,
     "category": 2,
     "description": "Desk with computer",
-    "price": 4999,
+    "price": 45999,
     "discount": 10,
     "allowedPlains": 2
   },
@@ -445,7 +445,7 @@
     "ar_scale": 1,
     "category": 2,
     "description": "Sample Book",
-    "price": 4599,
+    "price": 499,
     "discount": 10,
     "allowedPlains": 2
   },
@@ -475,7 +475,7 @@
     "ar_scale": 1,
     "category": 11,
     "description": "Dslr Camera",
-    "price": 56200,
+    "price": 59999,
     "discount": 10,
     "allowedPlains": 2
   },
@@ -490,7 +490,7 @@
     "ar_scale": 1,
     "category": 5,
     "description": "Desktop Computer",
-    "price": 56200,
+    "price": 39699,
     "discount": 10,
     "allowedPlains": 2
   },
@@ -565,7 +565,7 @@
     "ar_scale": 1,
     "category": 8,
     "description": "Frying Pan(Red Color)",
-    "price": 21528,
+    "price": 528,
     "discount": 10,
     "allowedPlains": 2
   },
@@ -625,7 +625,7 @@
     "ar_scale": 1,
     "category": 8,
     "description": "Small Oven",
-    "price": 11528,
+    "price": 5528,
     "discount": 10,
     "allowedPlains": 2
   },
@@ -640,7 +640,7 @@
     "ar_scale": 1,
     "category": 8,
     "description": "Baking Tray",
-    "price": 11528,
+    "price": 228,
     "discount": 10,
     "allowedPlains": 2
   },
@@ -655,7 +655,7 @@
     "ar_scale": 1,
     "category": 8,
     "description": "Knife",
-    "price": 11528,
+    "price": 99,
     "discount": 10,
     "allowedPlains": 2
   },
@@ -670,7 +670,7 @@
     "ar_scale": 1,
     "category": 8,
     "description": "Toaster",
-    "price": 11528,
+    "price": 1152,
     "discount": 10,
     "allowedPlains": 2
   },
@@ -700,7 +700,7 @@
     "ar_scale": 1,
     "category": 9,
     "description": "Travelling Luggage Bag(Black)",
-    "price": 3566,
+    "price": 7566,
     "discount": 10,
     "allowedPlains": 2
   },
@@ -715,7 +715,7 @@
     "ar_scale": 1,
     "category": 9,
     "description": "Purse",
-    "price": 3566,
+    "price": 566,
     "discount": 10,
     "allowedPlains": 2
   },
@@ -730,7 +730,7 @@
     "ar_scale": 1,
     "category": 10,
     "description": "Iphone Model",
-    "price": 25566,
+    "price": 55566,
     "discount": 10,
     "allowedPlains": 2
   },
@@ -760,7 +760,7 @@
     "ar_scale": 1,
     "category": 12,
     "description": "Peach",
-    "price": 19999,
+    "price": 49,
     "discount": 10,
     "allowedPlains": 2
   },
@@ -775,7 +775,7 @@
     "ar_scale": 1,
     "category": 12,
     "description": "Cabbage",
-    "price": 19999,
+    "price": 29,
     "discount": 10,
     "allowedPlains": 2
   },
@@ -790,7 +790,7 @@
     "ar_scale": 1,
     "category": 12,
     "description": "Apple",
-    "price": 19999,
+    "price": 49,
     "discount": 10,
     "allowedPlains": 2
   },
@@ -805,7 +805,7 @@
     "ar_scale": 1,
     "category": 12,
     "description": "Pineapple",
-    "price": 19999,
+    "price": 59,
     "discount": 10,
     "allowedPlains": 2
   }
