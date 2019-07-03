@@ -315,6 +315,21 @@
     "allowedPlains": 2
   },
   {
+    "name": "Dining Table Set",
+    "gltf_url": "https://raw.githubusercontent.com/srinivas-bekkam/3d-models/master/Furniture/dining_table_set/dining_table_set.gltf",
+    "model_url": "",
+    "material_url": "",
+    "texture_url": "",
+    "bin_url": "",
+    "scale": 1,
+    "ar_scale": 1,
+    "category": 2,
+    "description": "Couch",
+    "price": 24999,
+    "discount": 10,
+    "allowedPlains": 2
+  },
+  {
     "name": "Couch(Orange)",
     "gltf_url": "https://raw.githubusercontent.com/srinivas-bekkam/3d-models/master/Furniture/couch_orange/Couch.gltf",
     "model_url": "",
