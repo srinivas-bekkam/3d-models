@@ -850,7 +850,22 @@
     "ar_scale": 1,
     "category": 15,
     "description": "Motor Cycle",
-    "price": 2999,
+    "price": 752999,
+    "discount": 10,
+    "allowedPlains": 2
+  },
+  {
+    "name": "Sports Bike",
+    "gltf_url": "https://raw.githubusercontent.com/srinivas-bekkam/3d-models/master/Vehicles/two_wheelers/sports_bike/sports_bike.gltf",
+    "model_url": "",
+    "material_url": "",
+    "texture_url": "",
+    "bin_url": "",
+    "scale": 1,
+    "ar_scale": 1,
+    "category": 15,
+    "description": "Sports Bike",
+    "price": 1295999,
     "discount": 10,
     "allowedPlains": 2
   }
