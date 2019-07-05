@@ -63,5 +63,15 @@
     "name": "Toys",
     "id": 13,
     "parentId": -1
+  },
+  {
+    "name": "Vehicles",
+    "id": 14,
+    "parentId": -1
+  },
+  {
+    "name": "Two Wheelers",
+    "id": 15,
+    "parentId": 14
   }
 ]

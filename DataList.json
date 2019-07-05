@@ -840,16 +840,16 @@
     "allowedPlains": 2
   },
   {
-    "name": "Tri Cycle",
-    "gltf_url": "https://raw.githubusercontent.com/srinivas-bekkam/3d-models/master/Toys/cycles/tri_cycle/tri_cycle.gltf",
+    "name": "Motor Cycle",
+    "gltf_url": "https://raw.githubusercontent.com/srinivas-bekkam/3d-models/master/Vehicles/two_wheelers/motorcycle/motorcycle.gltf",
     "model_url": "",
     "material_url": "",
     "texture_url": "",
     "bin_url": "",
     "scale": 1,
     "ar_scale": 1,
-    "category": 13,
-    "description": "Tri Cycle(Red)",
+    "category": 15,
+    "description": "Motor Cycle",
     "price": 2999,
     "discount": 10,
     "allowedPlains": 2
