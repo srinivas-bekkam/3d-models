@@ -838,5 +838,20 @@
     "price": 59,
     "discount": 10,
     "allowedPlains": 2
+  },
+  {
+    "name": "Tri Cycle",
+    "gltf_url": "https://raw.githubusercontent.com/srinivas-bekkam/3d-models/master/Toys/cycles/tri_cycle/tri_cycle.gltf",
+    "model_url": "",
+    "material_url": "",
+    "texture_url": "",
+    "bin_url": "",
+    "scale": 1,
+    "ar_scale": 1,
+    "category": 13,
+    "description": "Tri Cycle(Red)",
+    "price": 2999,
+    "discount": 10,
+    "allowedPlains": 2
   }
 ]

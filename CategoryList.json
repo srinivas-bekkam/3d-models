@@ -58,5 +58,10 @@
     "name": "Fruits & Vegetables",
     "id": 12,
     "parentId": -1
+  },
+  {
+    "name": "Toys",
+    "id": 13,
+    "parentId": -1
   }
 ]
