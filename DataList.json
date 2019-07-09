@@ -855,6 +855,23 @@
     "allowedPlains": 2
   },
   {
+    "name": "Semi-Transparent Box",
+    "gltf_url": "https://raw.githubusercontent.com/srinivas-bekkam/3d-models/master/Others/transparent_box/transparent_box.gltf",
+    "model_url": "",
+    "material_url": "",
+    "texture_url": "",
+    "bin_url": "",
+    "scale": 1,
+    "ar_scale": 1,
+    "category": 15,
+    "description": "can be used to check dimensions",
+    "price": 0,
+    "discount": 0,
+    "allowedPlains": 2,
+	"is_scalable":true,
+	"is_trial":true
+  },
+  {
     "name": "Sports Bike",
     "gltf_url": "https://raw.githubusercontent.com/srinivas-bekkam/3d-models/master/Vehicles/two_wheelers/sports_bike/sports_bike.gltf",
     "model_url": "",

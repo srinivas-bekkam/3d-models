@@ -73,5 +73,10 @@
     "name": "Two Wheelers",
     "id": 15,
     "parentId": 14
+  },
+  {
+    "name": "Others",
+    "id": 16,
+    "parentId": -1
   }
 ]
