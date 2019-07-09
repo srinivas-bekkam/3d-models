@@ -868,8 +868,8 @@
     "price": 0,
     "discount": 0,
     "allowedPlains": 2,
-	"is_scalable":true,
-	"is_trial":true
+    "is_scalable": true,
+    "is_trial": true
   },
   {
     "name": "Sports Bike",
